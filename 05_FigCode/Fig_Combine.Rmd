@@ -1,0 +1,109 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    fig_caption: yes
+  word_document: default
+mainfont: Palatino
+header-includes:
+- \usepackage{caption}
+- \captionsetup[figure]{labelformat=empty}
+- \pagenumbering{gobble}
+classoption: a4paper
+---
+
+
+<center>
+
+![
+**Figure 1. Rice plot, growth rate, air temperature, and ecological community dynamics**. (**a**) 90 cm $\times$ 90 cm rice plot and Wagner pot alignments. Four rice individuals were grown in each pot (indicated by points in the right panel of **a**). Heights and SPAD of the target individuals (indicated by four red points in the right panel of **a**) were measured everyday during the monitoring period. (**b**) Rice growth rate (cm/day). (**c**) Daily mean air temperature measured at each rice plot. Upper and lower dotted lines indicate daily maximum and minimum air temperature. (**d**) Ecological community compositions and average DNA copy numbers per ml water (reported in Ushio 2022). (**e**) The number of amplicon sequence variants (ASVs) from each water sample (reported in Ushio 2022). For **b**, **c**, and **e**, different colors indicate data from different rice plots.
+](00_ReformatFigs/Figure_01.pdf){width=100%}
+
+</center>
+
+<center>
+
+![
+**Figure 2. Information transfer between rice growth and ecological community members**. (**a**) An example of the results of the unified information-theoretic causality analysis. Information transfer between air temperature and rice growth rates was quantified. Much higher information transfer was detected from air temperature to rice growth (left panel) compared with the opposite direction (right panel). (**b**) Strength of causal influence from ecological community members to rice growth. Colors indicate taxa assigned to ASVs. (**c**) eDNA dynamics of putative _Globisporangium_ (Fungi_Taxa00402 in Table S3). (**d**) eDNA dynamics of _Chironomus kiiensis_ (total DNA copy numbers of five midge ASVs). For **c** and **d**, different colors indicate data from different rice plots.
+](00_ReformatFigs/Figure_02.pdf){width=90%}
+
+</center>
+
+
+
+
+<center>
+
+![
+**Figure 3. The manipulation experiment performed in 2019 and ecological community compositions before and after the manipulation**. (**a**) Setting of the manipulation experiment in 2019. The inset shows three individuals (red and green points) in each Wagner pot. Heights and SPAD of the red individuals were measured. Total eDNA copy numbers of (**b**) putative _Globisporangium_ spp. and (**c**) midge (_Chironomus kiiensis_) in the rice plots. (**d**) Overall community compositions after the manipulation. Gray, red, and blue indicate CT (control), GN (_Globisporangium nunn_ added), and CK (_Chironomus kiiensis_ removed) treatments, respectively. Ellipses indicate 95% quantile ellipses.
+](00_ReformatFigs/Figure_03.pdf){width=100%}
+
+</center>
+
+
+<center>
+
+![
+**Figure 4. Ecological community compositions before and after the manipulation experiment in 2019**. (**a**) Growth rates and (**b**) cumulative growth of the rice individuals in the three treatment (CT = control; GN = _Globisporangium nunn_ added; CK = _Chironomus kiiensis_ removed) before and after the manipulation. 
+](00_ReformatFigs/Figure_04.pdf){width=100%}
+
+</center>
+
+
+
+<center>
+
+![
+**Figure 5. Differential expression genes analysis**. (**a**) _Globisporangium nunn_-added and (**b**) _Chironomus kiiensis_-removed treatment. Red and blue points indicate significant up- and down-regulated genes, respectively. Upper and lower dashed lines indicate $log_2(1.5)$ and $-log_2(1.5)$, respectively.
+](00_ReformatFigs/Figure_05.jpg){width=100%}
+
+</center>
+
+
+<center>
+
+![
+**Figure 6. Examples of differentially expressed genes after the manipulation experiment**. Results of (**a**) Os12g0504050, (**b**) Os11g0184900, (**c**) Os01g0678500, (**d**) Os01g0642200, (**e**) Os08g0162800, and (**f**) Os03g0285700 are presented. $y$-axis represents DESeq2-normalized read counts. Gray, red, and blue indicate CT (control), GN (_Globisporangium nunn_ added), and CK (_Chironomus kiiensis_ removed) treatments, respectively. The gene expressions of the GN treatment in the all six genes are statistically clearly different from the other two treatments (_P_ < 0.0001) except for GN v.s. CK in **b** (_P_ = 0.0087) and GN v.s. CK **e** (_P_ = 0.00014).
+](00_ReformatFigs/Figure_06.pdf){width=100%}
+
+</center>
+
+
+
+
+<center>
+
+![
+**Figure S1. Monitoring framework of ecological community (as in Ushio 2022)**. (**a**) Locations of the five rice plots in 2017. (**b**) Research framework to generate quantitative environmental DNA time series and network reconstruction. (**c**) Ecological community network reconstructed by nonlinear time series. These figures were reproduced from Ushio (2022) _Proceedings of the Royal Society B_.
+](00_ReformatFigs/Figure_S01.jpg){width=100%}
+
+</center>
+
+
+<center>
+
+![
+**Figure S2. Midge (_Chironomus kiiensis_) and _Globisporangium nunn_ used in the manipulation experiment in 2019**. (**a**) Larvae of midge (_Chironomus kiiensis_) naturally colonized in the rice plots. The larvae were manually removed by a commercial net with $\phi$ 1 mm mesh. (**b**) Microscopic image of _Globisporangium nunn_ (photo by M. Tojo). (**c**) _Globisporangium nunn_ was incubated in vermiculite and added to the rice plots. For the control and midge-removed treatments, vermiculite without _Globisporangium nunn_ was added. 
+](00_ReformatFigs/Figure_S02.pdf){width=100%}
+
+</center>
+
+
+<center>
+
+![
+**Figure S3. Rice growth trajectory in 2019.** (**a**) Rice height, (**b**) growth rate, and (**c**) SPAD values of the rice during the growing season in 2019. Points indicate observed values, lines indicate mean trends, and gray lines indicate the field manipulation experiments. Colors indicate the treatments.
+](00_ReformatFigs/Figure_S03.pdf){width=100%}
+
+</center>
+
+
+<center>
+
+![
+**Figure S4. Differential expression gene (DEG) patterns for each Wagner pot (Pot location-specific analysis).** DEG for (**a**) location 1, (**b**) location 2, and (**c**) location 3 for the control (CT) versus _Globisporangium nunn_-added (GN) treatments. (**d**-**f**) DEG analysis for the control versus _Chironomus kiiensis_-removed (CK) treatments for rice grown at locations 1-3. Red and blue points indicate significant up- and down-regulated genes, respectively. Upper and lower dashed lines indicate $log_2(1.5)$ and $-log_2(1.5)$, respectively.
+](00_ReformatFigs/Figure_S04.jpg){width=100%}
+
+</center>
+
+

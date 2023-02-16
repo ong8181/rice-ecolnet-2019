@@ -1,0 +1,40 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Mojave 10.14.6
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] rUIC_0.1.5      rEDM_0.7.5      lubridate_1.7.9 phyloseq_1.34.0
+
+loaded via a namespace (and not attached):
+ [1] progress_1.2.2      tidyselect_1.1.0    reshape2_1.4.4     
+ [4] purrr_0.3.4         splines_4.0.3       lattice_0.20-41    
+ [7] rhdf5_2.34.0        colorspace_1.4-1    vctrs_0.3.4        
+[10] generics_0.1.0      stats4_4.0.3        mgcv_1.8-33        
+[13] survival_3.2-7      rlang_0.4.9         pillar_1.4.6       
+[16] glue_1.4.2          BiocGenerics_0.36.0 foreach_1.5.1      
+[19] lifecycle_0.2.0     plyr_1.8.6          stringr_1.4.0      
+[22] zlibbioc_1.36.0     Biostrings_2.58.0   munsell_0.5.0      
+[25] gtable_0.3.0        codetools_0.2-16    Biobase_2.50.0     
+[28] permute_0.9-5       IRanges_2.24.0      biomformat_1.18.0  
+[31] parallel_4.0.3      Rcpp_1.0.5          scales_1.1.1       
+[34] vegan_2.5-6         S4Vectors_0.28.0    jsonlite_1.7.1     
+[37] XVector_0.30.0      ggplot2_3.3.2       hms_0.5.3          
+[40] stringi_1.5.3       dplyr_1.0.2         grid_4.0.3         
+[43] ade4_1.7-16         tools_4.0.3         rhdf5filters_1.2.0 
+[46] magrittr_1.5        tibble_3.0.4        cluster_2.1.0      
+[49] crayon_1.3.4        ape_5.4-1           pkgconfig_2.0.3    
+[52] MASS_7.3-53         ellipsis_0.3.1      Matrix_1.2-18      
+[55] data.table_1.13.2   prettyunits_1.1.1   rstudioapi_0.13    
+[58] iterators_1.0.13    Rhdf5lib_1.12.0     R6_2.5.0           
+[61] multtest_2.46.0     igraph_1.2.6        nlme_3.1-150       
+[64] compiler_4.0.3     

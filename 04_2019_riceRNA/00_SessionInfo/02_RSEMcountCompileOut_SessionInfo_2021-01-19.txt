@@ -1,0 +1,28 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Mojave 10.14.6
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] forcats_0.5.0   stringr_1.4.0   dplyr_1.0.2     purrr_0.3.4     readr_1.4.0     tidyr_1.1.2    
+[7] tibble_3.0.4    ggplot2_3.3.3   tidyverse_1.3.0
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_1.0.5        pillar_1.4.7      compiler_4.0.3    cellranger_1.1.0  dbplyr_2.0.0     
+ [6] tools_4.0.3       jsonlite_1.7.2    lubridate_1.7.9.2 lifecycle_0.2.0   gtable_0.3.0     
+[11] pkgconfig_2.0.3   rlang_0.4.10      reprex_0.3.0      cli_2.2.0         DBI_1.1.0        
+[16] rstudioapi_0.13   haven_2.3.1       withr_2.3.0       xml2_1.3.2        httr_1.4.2       
+[21] fs_1.5.0          generics_0.1.0    vctrs_0.3.6       hms_0.5.3         grid_4.0.3       
+[26] tidyselect_1.1.0  glue_1.4.2        R6_2.5.0          fansi_0.4.1       readxl_1.3.1     
+[31] modelr_0.1.8      magrittr_2.0.1    backports_1.2.1   scales_1.1.1      ellipsis_0.3.1   
+[36] rvest_0.3.6       assertthat_0.2.1  colorspace_2.0-0  stringi_1.5.3     munsell_0.5.0    
+[41] broom_0.7.3       crayon_1.3.4     

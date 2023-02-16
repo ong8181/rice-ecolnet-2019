@@ -1,0 +1,1232 @@
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index009_R1.fastq.gz /work/data/preprocessed/Index009.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index009_R1.fastq.gz /work/data/preprocessed/Index009.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 394533 Surviving: 376884 (95.53%) Dropped: 17649 (4.47%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index010_R1.fastq.gz /work/data/preprocessed/Index010.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index010_R1.fastq.gz /work/data/preprocessed/Index010.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 2114946 Surviving: 2048867 (96.88%) Dropped: 66079 (3.12%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index011_R1.fastq.gz /work/data/preprocessed/Index011.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index011_R1.fastq.gz /work/data/preprocessed/Index011.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 575913 Surviving: 552432 (95.92%) Dropped: 23481 (4.08%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index012_R1.fastq.gz /work/data/preprocessed/Index012.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index012_R1.fastq.gz /work/data/preprocessed/Index012.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 595125 Surviving: 571558 (96.04%) Dropped: 23567 (3.96%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index013_R1.fastq.gz /work/data/preprocessed/Index013.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index013_R1.fastq.gz /work/data/preprocessed/Index013.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 612303 Surviving: 589298 (96.24%) Dropped: 23005 (3.76%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index014_R1.fastq.gz /work/data/preprocessed/Index014.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index014_R1.fastq.gz /work/data/preprocessed/Index014.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 450277 Surviving: 430406 (95.59%) Dropped: 19871 (4.41%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index015_R1.fastq.gz /work/data/preprocessed/Index015.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index015_R1.fastq.gz /work/data/preprocessed/Index015.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1115161 Surviving: 1073289 (96.25%) Dropped: 41872 (3.75%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index016_R1.fastq.gz /work/data/preprocessed/Index016.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index016_R1.fastq.gz /work/data/preprocessed/Index016.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 903095 Surviving: 869335 (96.26%) Dropped: 33760 (3.74%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index017_R1.fastq.gz /work/data/preprocessed/Index017.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index017_R1.fastq.gz /work/data/preprocessed/Index017.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 61785 Surviving: 57434 (92.96%) Dropped: 4351 (7.04%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index018_R1.fastq.gz /work/data/preprocessed/Index018.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index018_R1.fastq.gz /work/data/preprocessed/Index018.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 345229 Surviving: 328433 (95.13%) Dropped: 16796 (4.87%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index019_R1.fastq.gz /work/data/preprocessed/Index019.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index019_R1.fastq.gz /work/data/preprocessed/Index019.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 736745 Surviving: 708251 (96.13%) Dropped: 28494 (3.87%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index020_R1.fastq.gz /work/data/preprocessed/Index020.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index020_R1.fastq.gz /work/data/preprocessed/Index020.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 650388 Surviving: 621837 (95.61%) Dropped: 28551 (4.39%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index021_R1.fastq.gz /work/data/preprocessed/Index021.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index021_R1.fastq.gz /work/data/preprocessed/Index021.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 554056 Surviving: 529009 (95.48%) Dropped: 25047 (4.52%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index022_R1.fastq.gz /work/data/preprocessed/Index022.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index022_R1.fastq.gz /work/data/preprocessed/Index022.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 273610 Surviving: 257995 (94.29%) Dropped: 15615 (5.71%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index023_R1.fastq.gz /work/data/preprocessed/Index023.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index023_R1.fastq.gz /work/data/preprocessed/Index023.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 242838 Surviving: 227528 (93.70%) Dropped: 15310 (6.30%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index024_R1.fastq.gz /work/data/preprocessed/Index024.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index024_R1.fastq.gz /work/data/preprocessed/Index024.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 135642 Surviving: 126393 (93.18%) Dropped: 9249 (6.82%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index025_R1.fastq.gz /work/data/preprocessed/Index025.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index025_R1.fastq.gz /work/data/preprocessed/Index025.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 7353 Surviving: 6942 (94.41%) Dropped: 411 (5.59%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index026_R1.fastq.gz /work/data/preprocessed/Index026.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index026_R1.fastq.gz /work/data/preprocessed/Index026.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 204598 Surviving: 190238 (92.98%) Dropped: 14360 (7.02%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index027_R1.fastq.gz /work/data/preprocessed/Index027.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index027_R1.fastq.gz /work/data/preprocessed/Index027.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 559207 Surviving: 531370 (95.02%) Dropped: 27837 (4.98%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index028_R1.fastq.gz /work/data/preprocessed/Index028.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index028_R1.fastq.gz /work/data/preprocessed/Index028.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 236017 Surviving: 221400 (93.81%) Dropped: 14617 (6.19%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index029_R1.fastq.gz /work/data/preprocessed/Index029.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index029_R1.fastq.gz /work/data/preprocessed/Index029.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 187240 Surviving: 173109 (92.45%) Dropped: 14131 (7.55%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index030_R1.fastq.gz /work/data/preprocessed/Index030.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index030_R1.fastq.gz /work/data/preprocessed/Index030.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 240916 Surviving: 224643 (93.25%) Dropped: 16273 (6.75%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index031_R1.fastq.gz /work/data/preprocessed/Index031.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index031_R1.fastq.gz /work/data/preprocessed/Index031.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 185761 Surviving: 173281 (93.28%) Dropped: 12480 (6.72%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index032_R1.fastq.gz /work/data/preprocessed/Index032.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index032_R1.fastq.gz /work/data/preprocessed/Index032.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 359764 Surviving: 337062 (93.69%) Dropped: 22702 (6.31%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index033_R1.fastq.gz /work/data/preprocessed/Index033.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index033_R1.fastq.gz /work/data/preprocessed/Index033.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 98465 Surviving: 92316 (93.76%) Dropped: 6149 (6.24%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index034_R1.fastq.gz /work/data/preprocessed/Index034.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index034_R1.fastq.gz /work/data/preprocessed/Index034.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 186542 Surviving: 173959 (93.25%) Dropped: 12583 (6.75%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index035_R1.fastq.gz /work/data/preprocessed/Index035.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index035_R1.fastq.gz /work/data/preprocessed/Index035.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 93221 Surviving: 86761 (93.07%) Dropped: 6460 (6.93%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index036_R1.fastq.gz /work/data/preprocessed/Index036.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index036_R1.fastq.gz /work/data/preprocessed/Index036.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 7363883 Surviving: 7138215 (96.94%) Dropped: 225668 (3.06%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index037_R1.fastq.gz /work/data/preprocessed/Index037.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index037_R1.fastq.gz /work/data/preprocessed/Index037.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 8154207 Surviving: 7895449 (96.83%) Dropped: 258758 (3.17%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index038_R1.fastq.gz /work/data/preprocessed/Index038.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index038_R1.fastq.gz /work/data/preprocessed/Index038.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 5178640 Surviving: 5007028 (96.69%) Dropped: 171612 (3.31%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index039_R1.fastq.gz /work/data/preprocessed/Index039.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index039_R1.fastq.gz /work/data/preprocessed/Index039.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 8736109 Surviving: 8478331 (97.05%) Dropped: 257778 (2.95%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index040_R1.fastq.gz /work/data/preprocessed/Index040.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index040_R1.fastq.gz /work/data/preprocessed/Index040.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 11478921 Surviving: 11110417 (96.79%) Dropped: 368504 (3.21%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index041_R1.fastq.gz /work/data/preprocessed/Index041.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index041_R1.fastq.gz /work/data/preprocessed/Index041.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 919313 Surviving: 890788 (96.90%) Dropped: 28525 (3.10%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index042_R1.fastq.gz /work/data/preprocessed/Index042.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index042_R1.fastq.gz /work/data/preprocessed/Index042.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 6862519 Surviving: 6633149 (96.66%) Dropped: 229370 (3.34%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index043_R1.fastq.gz /work/data/preprocessed/Index043.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index043_R1.fastq.gz /work/data/preprocessed/Index043.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 9795660 Surviving: 9495490 (96.94%) Dropped: 300170 (3.06%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index044_R1.fastq.gz /work/data/preprocessed/Index044.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index044_R1.fastq.gz /work/data/preprocessed/Index044.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 5268325 Surviving: 5087642 (96.57%) Dropped: 180683 (3.43%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index045_R1.fastq.gz /work/data/preprocessed/Index045.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index045_R1.fastq.gz /work/data/preprocessed/Index045.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 10921882 Surviving: 10585952 (96.92%) Dropped: 335930 (3.08%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index046_R1.fastq.gz /work/data/preprocessed/Index046.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index046_R1.fastq.gz /work/data/preprocessed/Index046.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 5536927 Surviving: 5370798 (97.00%) Dropped: 166129 (3.00%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index047_R1.fastq.gz /work/data/preprocessed/Index047.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index047_R1.fastq.gz /work/data/preprocessed/Index047.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 6946272 Surviving: 6747472 (97.14%) Dropped: 198800 (2.86%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index048_R1.fastq.gz /work/data/preprocessed/Index048.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index048_R1.fastq.gz /work/data/preprocessed/Index048.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 4027983 Surviving: 3908046 (97.02%) Dropped: 119937 (2.98%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index049_R1.fastq.gz /work/data/preprocessed/Index049.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index049_R1.fastq.gz /work/data/preprocessed/Index049.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 445169 Surviving: 430551 (96.72%) Dropped: 14618 (3.28%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index050_R1.fastq.gz /work/data/preprocessed/Index050.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index050_R1.fastq.gz /work/data/preprocessed/Index050.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 5413268 Surviving: 5241258 (96.82%) Dropped: 172010 (3.18%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index051_R1.fastq.gz /work/data/preprocessed/Index051.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index051_R1.fastq.gz /work/data/preprocessed/Index051.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 8151300 Surviving: 7936960 (97.37%) Dropped: 214340 (2.63%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index052_R1.fastq.gz /work/data/preprocessed/Index052.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index052_R1.fastq.gz /work/data/preprocessed/Index052.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 9698406 Surviving: 9418646 (97.12%) Dropped: 279760 (2.88%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index053_R1.fastq.gz /work/data/preprocessed/Index053.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index053_R1.fastq.gz /work/data/preprocessed/Index053.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 4723143 Surviving: 4576944 (96.90%) Dropped: 146199 (3.10%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index054_R1.fastq.gz /work/data/preprocessed/Index054.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index054_R1.fastq.gz /work/data/preprocessed/Index054.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 10602954 Surviving: 10294948 (97.10%) Dropped: 308006 (2.90%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index055_R1.fastq.gz /work/data/preprocessed/Index055.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index055_R1.fastq.gz /work/data/preprocessed/Index055.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 8077962 Surviving: 7831375 (96.95%) Dropped: 246587 (3.05%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index056_R1.fastq.gz /work/data/preprocessed/Index056.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index056_R1.fastq.gz /work/data/preprocessed/Index056.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 7337485 Surviving: 7138640 (97.29%) Dropped: 198845 (2.71%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index057_R1.fastq.gz /work/data/preprocessed/Index057.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index057_R1.fastq.gz /work/data/preprocessed/Index057.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 148601 Surviving: 144010 (96.91%) Dropped: 4591 (3.09%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index058_R1.fastq.gz /work/data/preprocessed/Index058.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index058_R1.fastq.gz /work/data/preprocessed/Index058.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 8233185 Surviving: 7994866 (97.11%) Dropped: 238319 (2.89%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index059_R1.fastq.gz /work/data/preprocessed/Index059.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index059_R1.fastq.gz /work/data/preprocessed/Index059.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 4297171 Surviving: 4157703 (96.75%) Dropped: 139468 (3.25%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index060_R1.fastq.gz /work/data/preprocessed/Index060.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index060_R1.fastq.gz /work/data/preprocessed/Index060.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 10117756 Surviving: 9814234 (97.00%) Dropped: 303522 (3.00%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index061_R1.fastq.gz /work/data/preprocessed/Index061.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index061_R1.fastq.gz /work/data/preprocessed/Index061.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 6270504 Surviving: 6081715 (96.99%) Dropped: 188789 (3.01%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index062_R1.fastq.gz /work/data/preprocessed/Index062.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index062_R1.fastq.gz /work/data/preprocessed/Index062.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 6449617 Surviving: 6265552 (97.15%) Dropped: 184065 (2.85%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index063_R1.fastq.gz /work/data/preprocessed/Index063.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index063_R1.fastq.gz /work/data/preprocessed/Index063.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 3722812 Surviving: 3600780 (96.72%) Dropped: 122032 (3.28%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index064_R1.fastq.gz /work/data/preprocessed/Index064.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index064_R1.fastq.gz /work/data/preprocessed/Index064.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1038439 Surviving: 999202 (96.22%) Dropped: 39237 (3.78%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index065_R1.fastq.gz /work/data/preprocessed/Index065.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index065_R1.fastq.gz /work/data/preprocessed/Index065.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 14070 Surviving: 13274 (94.34%) Dropped: 796 (5.66%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index066_R1.fastq.gz /work/data/preprocessed/Index066.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index066_R1.fastq.gz /work/data/preprocessed/Index066.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 2217915 Surviving: 2144576 (96.69%) Dropped: 73339 (3.31%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index067_R1.fastq.gz /work/data/preprocessed/Index067.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index067_R1.fastq.gz /work/data/preprocessed/Index067.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 2625862 Surviving: 2542135 (96.81%) Dropped: 83727 (3.19%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index068_R1.fastq.gz /work/data/preprocessed/Index068.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index068_R1.fastq.gz /work/data/preprocessed/Index068.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1586537 Surviving: 1531392 (96.52%) Dropped: 55145 (3.48%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index069_R1.fastq.gz /work/data/preprocessed/Index069.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index069_R1.fastq.gz /work/data/preprocessed/Index069.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 2988315 Surviving: 2896066 (96.91%) Dropped: 92249 (3.09%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index070_R1.fastq.gz /work/data/preprocessed/Index070.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index070_R1.fastq.gz /work/data/preprocessed/Index070.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1862774 Surviving: 1804197 (96.86%) Dropped: 58577 (3.14%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index071_R1.fastq.gz /work/data/preprocessed/Index071.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index071_R1.fastq.gz /work/data/preprocessed/Index071.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 4077854 Surviving: 3946801 (96.79%) Dropped: 131053 (3.21%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index072_R1.fastq.gz /work/data/preprocessed/Index072.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index072_R1.fastq.gz /work/data/preprocessed/Index072.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 879936 Surviving: 850611 (96.67%) Dropped: 29325 (3.33%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index073_R1.fastq.gz /work/data/preprocessed/Index073.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index073_R1.fastq.gz /work/data/preprocessed/Index073.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 17729 Surviving: 16697 (94.18%) Dropped: 1032 (5.82%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index074_R1.fastq.gz /work/data/preprocessed/Index074.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index074_R1.fastq.gz /work/data/preprocessed/Index074.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 7232082 Surviving: 7026243 (97.15%) Dropped: 205839 (2.85%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index075_R1.fastq.gz /work/data/preprocessed/Index075.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index075_R1.fastq.gz /work/data/preprocessed/Index075.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 5645236 Surviving: 5470217 (96.90%) Dropped: 175019 (3.10%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index076_R1.fastq.gz /work/data/preprocessed/Index076.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index076_R1.fastq.gz /work/data/preprocessed/Index076.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 2083457 Surviving: 2015727 (96.75%) Dropped: 67730 (3.25%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index077_R1.fastq.gz /work/data/preprocessed/Index077.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index077_R1.fastq.gz /work/data/preprocessed/Index077.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 2882245 Surviving: 2795804 (97.00%) Dropped: 86441 (3.00%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index078_R1.fastq.gz /work/data/preprocessed/Index078.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index078_R1.fastq.gz /work/data/preprocessed/Index078.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 730439 Surviving: 702827 (96.22%) Dropped: 27612 (3.78%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index079_R1.fastq.gz /work/data/preprocessed/Index079.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index079_R1.fastq.gz /work/data/preprocessed/Index079.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1193035 Surviving: 1147909 (96.22%) Dropped: 45126 (3.78%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index080_R1.fastq.gz /work/data/preprocessed/Index080.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index080_R1.fastq.gz /work/data/preprocessed/Index080.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 4091530 Surviving: 3966734 (96.95%) Dropped: 124796 (3.05%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index081_R1.fastq.gz /work/data/preprocessed/Index081.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index081_R1.fastq.gz /work/data/preprocessed/Index081.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 20735 Surviving: 19493 (94.01%) Dropped: 1242 (5.99%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index082_R1.fastq.gz /work/data/preprocessed/Index082.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index082_R1.fastq.gz /work/data/preprocessed/Index082.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1328871 Surviving: 1277106 (96.10%) Dropped: 51765 (3.90%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index083_R1.fastq.gz /work/data/preprocessed/Index083.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index083_R1.fastq.gz /work/data/preprocessed/Index083.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1774984 Surviving: 1715217 (96.63%) Dropped: 59767 (3.37%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index084_R1.fastq.gz /work/data/preprocessed/Index084.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index084_R1.fastq.gz /work/data/preprocessed/Index084.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 791286 Surviving: 759553 (95.99%) Dropped: 31733 (4.01%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index085_R1.fastq.gz /work/data/preprocessed/Index085.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index085_R1.fastq.gz /work/data/preprocessed/Index085.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1473767 Surviving: 1423827 (96.61%) Dropped: 49940 (3.39%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index086_R1.fastq.gz /work/data/preprocessed/Index086.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index086_R1.fastq.gz /work/data/preprocessed/Index086.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 3204798 Surviving: 3095330 (96.58%) Dropped: 109468 (3.42%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index087_R1.fastq.gz /work/data/preprocessed/Index087.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index087_R1.fastq.gz /work/data/preprocessed/Index087.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 563677 Surviving: 535927 (95.08%) Dropped: 27750 (4.92%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index088_R1.fastq.gz /work/data/preprocessed/Index088.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index088_R1.fastq.gz /work/data/preprocessed/Index088.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1018475 Surviving: 977974 (96.02%) Dropped: 40501 (3.98%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index109_R1.fastq.gz /work/data/preprocessed/Index109.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index109_R1.fastq.gz /work/data/preprocessed/Index109.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 867183 Surviving: 834401 (96.22%) Dropped: 32782 (3.78%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index110_R1.fastq.gz /work/data/preprocessed/Index110.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index110_R1.fastq.gz /work/data/preprocessed/Index110.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 5991984 Surviving: 5806121 (96.90%) Dropped: 185863 (3.10%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index111_R1.fastq.gz /work/data/preprocessed/Index111.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index111_R1.fastq.gz /work/data/preprocessed/Index111.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 8405389 Surviving: 8169680 (97.20%) Dropped: 235709 (2.80%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index112_R1.fastq.gz /work/data/preprocessed/Index112.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index112_R1.fastq.gz /work/data/preprocessed/Index112.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 6936439 Surviving: 6698727 (96.57%) Dropped: 237712 (3.43%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index113_R1.fastq.gz /work/data/preprocessed/Index113.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index113_R1.fastq.gz /work/data/preprocessed/Index113.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 4465753 Surviving: 4328525 (96.93%) Dropped: 137228 (3.07%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index114_R1.fastq.gz /work/data/preprocessed/Index114.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index114_R1.fastq.gz /work/data/preprocessed/Index114.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1264549 Surviving: 1223440 (96.75%) Dropped: 41109 (3.25%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index115_R1.fastq.gz /work/data/preprocessed/Index115.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index115_R1.fastq.gz /work/data/preprocessed/Index115.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 3745425 Surviving: 3620227 (96.66%) Dropped: 125198 (3.34%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index116_R1.fastq.gz /work/data/preprocessed/Index116.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index116_R1.fastq.gz /work/data/preprocessed/Index116.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 9193020 Surviving: 8921651 (97.05%) Dropped: 271369 (2.95%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index117_R1.fastq.gz /work/data/preprocessed/Index117.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index117_R1.fastq.gz /work/data/preprocessed/Index117.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 16739 Surviving: 15797 (94.37%) Dropped: 942 (5.63%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index118_R1.fastq.gz /work/data/preprocessed/Index118.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index118_R1.fastq.gz /work/data/preprocessed/Index118.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 16075502 Surviving: 15613874 (97.13%) Dropped: 461628 (2.87%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index119_R1.fastq.gz /work/data/preprocessed/Index119.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index119_R1.fastq.gz /work/data/preprocessed/Index119.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 5465613 Surviving: 5277644 (96.56%) Dropped: 187969 (3.44%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index120_R1.fastq.gz /work/data/preprocessed/Index120.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index120_R1.fastq.gz /work/data/preprocessed/Index120.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 12727456 Surviving: 12346784 (97.01%) Dropped: 380672 (2.99%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index121_R1.fastq.gz /work/data/preprocessed/Index121.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index121_R1.fastq.gz /work/data/preprocessed/Index121.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 11235816 Surviving: 10916863 (97.16%) Dropped: 318953 (2.84%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index122_R1.fastq.gz /work/data/preprocessed/Index122.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index122_R1.fastq.gz /work/data/preprocessed/Index122.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 5396595 Surviving: 5233939 (96.99%) Dropped: 162656 (3.01%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index123_R1.fastq.gz /work/data/preprocessed/Index123.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index123_R1.fastq.gz /work/data/preprocessed/Index123.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 11830365 Surviving: 11495115 (97.17%) Dropped: 335250 (2.83%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index124_R1.fastq.gz /work/data/preprocessed/Index124.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index124_R1.fastq.gz /work/data/preprocessed/Index124.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 5004919 Surviving: 4819346 (96.29%) Dropped: 185573 (3.71%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index125_R1.fastq.gz /work/data/preprocessed/Index125.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index125_R1.fastq.gz /work/data/preprocessed/Index125.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 288660 Surviving: 278072 (96.33%) Dropped: 10588 (3.67%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index126_R1.fastq.gz /work/data/preprocessed/Index126.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index126_R1.fastq.gz /work/data/preprocessed/Index126.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 10154284 Surviving: 9859963 (97.10%) Dropped: 294321 (2.90%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index127_R1.fastq.gz /work/data/preprocessed/Index127.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index127_R1.fastq.gz /work/data/preprocessed/Index127.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 1437462 Surviving: 1387527 (96.53%) Dropped: 49935 (3.47%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index128_R1.fastq.gz /work/data/preprocessed/Index128.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index128_R1.fastq.gz /work/data/preprocessed/Index128.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 5496381 Surviving: 5340207 (97.16%) Dropped: 156174 (2.84%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index129_R1.fastq.gz /work/data/preprocessed/Index129.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index129_R1.fastq.gz /work/data/preprocessed/Index129.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 3162321 Surviving: 3061701 (96.82%) Dropped: 100620 (3.18%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index130_R1.fastq.gz /work/data/preprocessed/Index130.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index130_R1.fastq.gz /work/data/preprocessed/Index130.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 3684393 Surviving: 3570041 (96.90%) Dropped: 114352 (3.10%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index131_R1.fastq.gz /work/data/preprocessed/Index131.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index131_R1.fastq.gz /work/data/preprocessed/Index131.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 10214948 Surviving: 9915014 (97.06%) Dropped: 299934 (2.94%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index132_R1.fastq.gz /work/data/preprocessed/Index132.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index132_R1.fastq.gz /work/data/preprocessed/Index132.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 7523310 Surviving: 7304915 (97.10%) Dropped: 218395 (2.90%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index133_R1.fastq.gz /work/data/preprocessed/Index133.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index133_R1.fastq.gz /work/data/preprocessed/Index133.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 14934 Surviving: 14046 (94.05%) Dropped: 888 (5.95%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index134_R1.fastq.gz /work/data/preprocessed/Index134.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index134_R1.fastq.gz /work/data/preprocessed/Index134.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 3554490 Surviving: 3429993 (96.50%) Dropped: 124497 (3.50%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index135_R1.fastq.gz /work/data/preprocessed/Index135.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index135_R1.fastq.gz /work/data/preprocessed/Index135.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 2924072 Surviving: 2826026 (96.65%) Dropped: 98046 (3.35%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index136_R1.fastq.gz /work/data/preprocessed/Index136.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index136_R1.fastq.gz /work/data/preprocessed/Index136.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 7140738 Surviving: 6924325 (96.97%) Dropped: 216413 (3.03%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index137_R1.fastq.gz /work/data/preprocessed/Index137.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index137_R1.fastq.gz /work/data/preprocessed/Index137.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 22225 Surviving: 17317 (77.92%) Dropped: 4908 (22.08%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index138_R1.fastq.gz /work/data/preprocessed/Index138.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index138_R1.fastq.gz /work/data/preprocessed/Index138.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 22478 Surviving: 17838 (79.36%) Dropped: 4640 (20.64%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index139_R1.fastq.gz /work/data/preprocessed/Index139.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index139_R1.fastq.gz /work/data/preprocessed/Index139.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 16119 Surviving: 11863 (73.60%) Dropped: 4256 (26.40%)
+TrimmomaticSE: Completed successfully
+[Command]java -jar /opt/bio/local/Trimmomatic/trimmomatic.jar SE -threads 72 -phred33 /work/data/org_R1/OsaUC_Index140_R1.fastq.gz /work/data/preprocessed/Index140.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+TrimmomaticSE: Started with arguments:
+ -threads 72 -phred33 /work/data/org_R1/OsaUC_Index140_R1.fastq.gz /work/data/preprocessed/Index140.fq TOPHRED33 ILLUMINACLIP:/opt/bio/local/Trimmomatic/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:19 TRAILING:19 SLIDINGWINDOW:30:20 AVGQUAL:20 MINLEN:100
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 36453 Surviving: 32971 (90.45%) Dropped: 3482 (9.55%)
+TrimmomaticSE: Completed successfully

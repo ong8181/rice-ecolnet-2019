@@ -1,0 +1,908 @@
+query	superkingdom	kingdom	subkingdom	phylum	superclass	class	subclass	infraclass	superorder	order	suborder	infraorder	parvorder	superfamily	family	subfamily	tribe	genus	subgenus	species
+Taxa00001	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Microglena		
+Taxa00002																				
+Taxa00003	Eukaryota																			
+Taxa00004	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00005																				
+Taxa00006	Eukaryota			Cryptophyta						Cryptomonadales					Cryptomonadaceae					
+Taxa00007	Eukaryota	Viridiplantae																		
+Taxa00008	Eukaryota																			
+Taxa00009	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00010	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00011	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00012	Eukaryota																			
+Taxa00013	Eukaryota									Vampyrellida					Leptophryidae					
+Taxa00014	Eukaryota	Fungi																		
+Taxa00015	Eukaryota	Viridiplantae																		
+Taxa00016	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Sphaeropleales					Scenedesmaceae					
+Taxa00017	Eukaryota	Metazoa		Rotifera		Monogononta			Pseudotrocha	Ploima										
+Taxa00018	Eukaryota														Nucleariidae			Nuclearia		
+Taxa00019	Eukaryota	Viridiplantae																		
+Taxa00020	Eukaryota	Metazoa		Arthropoda		Insecta														
+Taxa00021	Eukaryota					Oligohymenophorea	Peritrichia													
+Taxa00022	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00023	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00024	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00025	Eukaryota					Chrysophyceae														
+Taxa00026	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00027	Eukaryota	Metazoa		Rotifera		Monogononta			Pseudotrocha	Ploima										
+Taxa00028	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chaetophorales					Uronemataceae			Uronema		
+Taxa00029	Eukaryota					Dinophyceae														
+Taxa00030	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00031	Eukaryota					Oomycetes				Saprolegniales					Saprolegniaceae			Saprolegnia		
+Taxa00032	Eukaryota	Fungi																		
+Taxa00033	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		Chlamydomonas moewusii
+Taxa00034	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00035	Eukaryota	Fungi																		
+Taxa00036	Eukaryota																			
+Taxa00037	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00038	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00039	Eukaryota																			
+Taxa00040	Eukaryota																			
+Taxa00041	Eukaryota																			
+Taxa00042	Eukaryota																			
+Taxa00043	Eukaryota					Oligohymenophorea	Scuticociliatia													
+Taxa00044	Eukaryota																			
+Taxa00045	Eukaryota																	Gymnophrys		
+Taxa00046	Eukaryota									Kinetoplastida										
+Taxa00047	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00048	Eukaryota					Thecofilosea														
+Taxa00049	Eukaryota																			
+Taxa00050	Eukaryota					Oomycetes				Saprolegniales					Saprolegniaceae					
+Taxa00051	Eukaryota	Metazoa		Platyhelminthes		Catenulida									Stenostomidae			Stenostomum		
+Taxa00052	Eukaryota									Kinetoplastida										
+Taxa00053	Eukaryota					Chrysophyceae														
+Taxa00054	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00055	Eukaryota																			
+Taxa00056	Eukaryota	Fungi																		
+Taxa00057	Eukaryota					Chrysophyceae														
+Taxa00058	Eukaryota																			
+Taxa00059	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00060	Eukaryota																			
+Taxa00061	Eukaryota																			
+Taxa00062	Eukaryota					Chrysophyceae														
+Taxa00063	Eukaryota	Metazoa																		
+Taxa00064	Eukaryota																			
+Taxa00065	Eukaryota																			
+Taxa00066	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Diptera	Nematocera	Culicomorpha		Culicoidea	Culicidae	Culicinae				
+Taxa00067	Eukaryota																			
+Taxa00068	Eukaryota			Euglenida						Euglenales					Phacaceae			Lepocinclis		
+Taxa00069	Eukaryota					Dinophyceae														
+Taxa00070	Eukaryota	Fungi																		
+Taxa00071	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00072	Eukaryota																			
+Taxa00073	Eukaryota																			
+Taxa00074	Eukaryota	Metazoa		Platyhelminthes		Catenulida									Stenostomidae			Stenostomum		
+Taxa00075	Eukaryota														Paramoebidae			Korotnevella		Korotnevella pelagolacustris
+Taxa00076	Eukaryota																			
+Taxa00077	Eukaryota																			
+Taxa00078	Eukaryota					Chrysophyceae														
+Taxa00079	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00080	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlorococcaceae					
+Taxa00081	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Sphaeropleales					Selenastraceae					
+Taxa00082	Eukaryota																			
+Taxa00083	Eukaryota					Spirotrichea	Stichotrichia													
+Taxa00084	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Sphaeropleales					Scenedesmaceae					
+Taxa00085	Bacteria			Proteobacteria		Betaproteobacteria				Neisseriales					Neisseriaceae					
+Taxa00086	Eukaryota					Phyllopharyngea	Phyllopharyngia			Chlamydodontida					Chilodonellidae			Chilodonella		
+Taxa00087	Eukaryota									Bicosoecida										
+Taxa00088	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00089	Eukaryota	Fungi																		
+Taxa00090	Eukaryota	Fungi	Dikarya	Basidiomycota		Ustilaginomycetes				Ustilaginales										
+Taxa00091	Eukaryota					Chrysophyceae														
+Taxa00092	Bacteria			Proteobacteria		Betaproteobacteria														uncultured beta proteobacterium
+Taxa00093	Eukaryota									Kinetoplastida					Bodonidae					
+Taxa00094	Eukaryota	Viridiplantae		Chlorophyta		Ulvophyceae				Ulotrichales										
+Taxa00095	Eukaryota									Longamoebia										
+Taxa00096	Eukaryota																			
+Taxa00097	Bacteria			Proteobacteria		Alphaproteobacteria				Rhodospirillales					Rhodospirillaceae					
+Taxa00098	Eukaryota					Chrysophyceae														
+Taxa00099	Eukaryota									Kinetoplastida										
+Taxa00100	Eukaryota																			
+Taxa00101	Eukaryota									Vampyrellida					Leptophryidae					
+Taxa00102	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00103	Eukaryota	Fungi		Blastocladiomycota		Blastocladiomycetes				Blastocladiales					Blastocladiaceae					
+Taxa00104	Eukaryota																			
+Taxa00105	Eukaryota																			
+Taxa00106	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00107	Eukaryota	Fungi																		
+Taxa00108	Eukaryota																			
+Taxa00109	Eukaryota	Fungi		Chytridiomycota		Chytridiomycetes														
+Taxa00110	Eukaryota																			
+Taxa00111	Bacteria			Proteobacteria		Betaproteobacteria														
+Taxa00112	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00113	Eukaryota									Vampyrellida					Leptophryidae					
+Taxa00114	Eukaryota	Fungi																		
+Taxa00115	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00116	Eukaryota			Cryptophyta						Cryptomonadales					Goniomonadaceae			Goniomonas		
+Taxa00117	Eukaryota																			
+Taxa00118	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Diptera	Nematocera	Culicomorpha		Chironomoidea	Chironomidae					
+Taxa00119	Eukaryota														Paramoebidae			Korotnevella		
+Taxa00120	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00121	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Dothideomycetidae			Dothideales										
+Taxa00122	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00123	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00124	Bacteria			Proteobacteria		Alphaproteobacteria				Sphingomonadales										
+Taxa00125	Eukaryota																			
+Taxa00126	Eukaryota																			
+Taxa00127	Eukaryota																			
+Taxa00128																				
+Taxa00129	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00130	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00131	Eukaryota																			
+Taxa00132	Eukaryota									Vampyrellida					Leptophryidae					
+Taxa00133	Eukaryota			Euglenida						Euglenales					Euglenaceae			Euglena		
+Taxa00134	Eukaryota					Oligohymenophorea				Hymenostomatida	Tetrahymenina				Tetrahymenidae			Tetrahymena		
+Taxa00135	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00136	Eukaryota									Choanoflagellida										
+Taxa00137	Eukaryota																			
+Taxa00138	Eukaryota									Kinetoplastida										
+Taxa00139	Eukaryota									Cercomonadida					Cercomonadidae			Paracercomonas		
+Taxa00140	Eukaryota																			
+Taxa00141	Eukaryota														Collodictyonidae					
+Taxa00142	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00143	Eukaryota														Paramoebidae			Korotnevella		Korotnevella stella
+Taxa00144	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Dothideomycetidae			Capnodiales										
+Taxa00145	Eukaryota					Colpodea														
+Taxa00146	Eukaryota																			
+Taxa00147	Eukaryota					Chrysophyceae														
+Taxa00148	Eukaryota					Chrysophyceae														
+Taxa00149	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Pleosporomycetidae			Pleosporales	Pleosporineae				Didymellaceae					
+Taxa00150	Eukaryota					Oomycetes														
+Taxa00151	Eukaryota	Fungi	Dikarya	Basidiomycota		Tremellomycetes				Tremellales										
+Taxa00152	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00153	Eukaryota					Oligohymenophorea	Peritrichia			Sessilida										
+Taxa00154																				
+Taxa00155	Eukaryota			Euglenida																
+Taxa00156	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00157	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00158	Eukaryota			Euglenida						Heteronematales					Heteronematidae			Peranema		Peranema trichophorum
+Taxa00159	Eukaryota																			
+Taxa00160	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00161	Eukaryota					Spirotrichea	Stichotrichia													
+Taxa00162	Eukaryota	Viridiplantae		Chlorophyta																
+Taxa00163	Eukaryota					Eustigmatophyceae				Eustigmatales										
+Taxa00164	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00165	Eukaryota																			
+Taxa00166	Eukaryota	Fungi	Dikarya	Ascomycota		Eurotiomycetes	Chaetothyriomycetidae			Chaetothyriales										
+Taxa00167	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00168	Eukaryota																			
+Taxa00169	Eukaryota									Arcellinida										
+Taxa00170	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00171	Eukaryota	Metazoa		Gastrotricha						Chaetonotida	Paucitubulatina				Chaetonotidae					
+Taxa00172	Eukaryota	Fungi	Dikarya	Basidiomycota		Microbotryomycetes														
+Taxa00173	Eukaryota																			
+Taxa00174	Eukaryota																			
+Taxa00175	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Coleoptera	Adephaga			Dytiscoidea	Dytiscidae					
+Taxa00176	Eukaryota					Oligohymenophorea				Hymenostomatida	Tetrahymenina				Tetrahymenidae			Tetrahymena		
+Taxa00177	Eukaryota	Fungi																		
+Taxa00178	Eukaryota					Dinophyceae														
+Taxa00179	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00180	Eukaryota	Fungi																		
+Taxa00181	Eukaryota									Choanoflagellida										
+Taxa00182	Eukaryota					Chrysophyceae														
+Taxa00183	Eukaryota					Chrysophyceae														
+Taxa00184	Eukaryota																			
+Taxa00185	Eukaryota														Paramoebidae			Korotnevella		
+Taxa00186	Eukaryota	Fungi																		
+Taxa00187	Eukaryota					Oomycetes				Pythiales					Pythiaceae					
+Taxa00188	Eukaryota									Longamoebia					Acanthamoebidae			Protacanthamoeba		
+Taxa00189	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00190	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00191	Bacteria			Proteobacteria		Gammaproteobacteria				Enterobacterales										
+Taxa00192	Eukaryota																			
+Taxa00193	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00194																				
+Taxa00195	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Hemiptera	Sternorrhyncha	Aphidomorpha		Aphidoidea						
+Taxa00196	Bacteria			Proteobacteria		Alphaproteobacteria				Sphingomonadales										
+Taxa00197	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00198	Eukaryota																			
+Taxa00199	Eukaryota																			
+Taxa00200	Eukaryota																			
+Taxa00201	Bacteria			Proteobacteria		Betaproteobacteria				Neisseriales					Chromobacteriaceae					
+Taxa00202	Eukaryota	Metazoa		Rotifera		Monogononta			Pseudotrocha	Ploima										
+Taxa00203	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Sphaeropleales					Scenedesmaceae					
+Taxa00204	Eukaryota																			
+Taxa00205	Eukaryota																			
+Taxa00206																				
+Taxa00207																				
+Taxa00208	Eukaryota					Thecofilosea														
+Taxa00209																				
+Taxa00210	Eukaryota	Metazoa		Rotifera		Monogononta														
+Taxa00211	Eukaryota					Chrysophyceae														
+Taxa00212	Eukaryota																			
+Taxa00213	Eukaryota																			
+Taxa00214	Eukaryota																			
+Taxa00215	Eukaryota									Vampyrellida					Leptophryidae					
+Taxa00216	Eukaryota			Cryptophyta						Cryptomonadales					Cryptomonadaceae					
+Taxa00217	Eukaryota	Viridiplantae		Chlorophyta																
+Taxa00218	Eukaryota																			
+Taxa00219	Eukaryota	Fungi		Chytridiomycota		Chytridiomycetes				Cladochytriales					Cladochytriaceae			Cladochytrium		Cladochytrium replicatum
+Taxa00220																				
+Taxa00221	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00222	Eukaryota														Nucleariidae			Nuclearia		
+Taxa00223	Eukaryota																			
+Taxa00224	Eukaryota																			
+Taxa00225	Eukaryota	Metazoa		Rotifera		Monogononta			Pseudotrocha	Ploima										
+Taxa00226	Eukaryota																			
+Taxa00227	Eukaryota									Vampyrellida					Leptophryidae					
+Taxa00228	Eukaryota																			
+Taxa00229	Eukaryota	Viridiplantae		Chlorophyta																
+Taxa00230	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00231	Eukaryota	Metazoa		Arthropoda		Insecta														
+Taxa00232	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00233	Eukaryota			Apicomplexa		Conoidasida	Gregarinasina											Nematopsis		Nematopsis temporariae
+Taxa00234	Eukaryota	Viridiplantae																		
+Taxa00235	Eukaryota																			
+Taxa00236	Eukaryota																			
+Taxa00237	Eukaryota																			
+Taxa00238	Eukaryota	Fungi	Dikarya	Basidiomycota		Tremellomycetes														
+Taxa00239	Eukaryota																			
+Taxa00240	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Polytomella		
+Taxa00241	Eukaryota														Paramoebidae			Korotnevella		
+Taxa00242	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00243	Eukaryota	Fungi	Dikarya	Basidiomycota		Microbotryomycetes				Sporidiobolales										
+Taxa00244	Eukaryota																			
+Taxa00245	Eukaryota	Fungi																		
+Taxa00246	Eukaryota					Chrysophyceae														
+Taxa00247	Eukaryota	Fungi	Dikarya	Ascomycota		Eurotiomycetes	Eurotiomycetidae													
+Taxa00248																				
+Taxa00249	Eukaryota																			
+Taxa00250	Eukaryota	Fungi		Chytridiomycota		Chytridiomycetes				Rhizophydiales										
+Taxa00251	Eukaryota					Oligohymenophorea	Peritrichia			Sessilida					Vorticellidae			Vorticella		
+Taxa00252	Eukaryota					Ichthyosporea				Dermocystida										
+Taxa00253	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00254	Eukaryota	Viridiplantae																		
+Taxa00255	Eukaryota																			
+Taxa00256	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00257	Eukaryota																			
+Taxa00258	Bacteria			Proteobacteria																
+Taxa00259	Eukaryota	Fungi																		
+Taxa00260	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00261	Eukaryota	Fungi																		
+Taxa00262	Eukaryota					Oomycetes				Saprolegniales					Saprolegniaceae			Aphanomyces		
+Taxa00263	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00264	Bacteria			Verrucomicrobia																
+Taxa00265	Eukaryota																			
+Taxa00266	Eukaryota																			
+Taxa00267	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00268	Eukaryota																			
+Taxa00269	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00270	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		Chlamydomonas applanata
+Taxa00271	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00272	Eukaryota																			
+Taxa00273	Eukaryota			Euglenida						Euglenales										
+Taxa00274	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00275	Eukaryota																			
+Taxa00276	Eukaryota					Oomycetes														
+Taxa00277	Bacteria																			
+Taxa00278	Eukaryota																			
+Taxa00279	Eukaryota	Fungi																		
+Taxa00280	Eukaryota																			
+Taxa00281	Eukaryota																			
+Taxa00282																				
+Taxa00283	Eukaryota																			
+Taxa00284	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00285	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00286	Eukaryota																			
+Taxa00287	Eukaryota														Nucleariidae			Nuclearia		
+Taxa00288	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Microglena		
+Taxa00289	Eukaryota														Paramoebidae			Korotnevella		
+Taxa00290	Eukaryota																			
+Taxa00291	Eukaryota														Mastigamoebidae			Mastigamoeba		
+Taxa00292	Eukaryota									Kinetoplastida					Bodonidae					
+Taxa00293	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00294	Eukaryota																			
+Taxa00295	Eukaryota														Nucleariidae			Nuclearia		
+Taxa00296	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00297	Eukaryota																			
+Taxa00298	Eukaryota																			
+Taxa00299	Eukaryota	Viridiplantae		Streptophyta		Liliopsida	Petrosaviidae			Poales										
+Taxa00300	Eukaryota																			
+Taxa00301	Eukaryota																			
+Taxa00302	Bacteria			Verrucomicrobia		Verrucomicrobiae				Verrucomicrobiales					Verrucomicrobiaceae			Prosthecobacter		
+Taxa00303	Eukaryota	Fungi		Zoopagomycota		Entomophthoromycetes				Entomophthorales					Entomophthoraceae					
+Taxa00304	Eukaryota									Kinetoplastida										
+Taxa00305	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00306	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Acariformes	Trombidiformes	Prostigmata			Eriophyoidea	Eriophyidae	Phyllocoptinae	Anthocoptini			
+Taxa00307	Eukaryota	Metazoa		Platyhelminthes		Catenulida									Stenostomidae			Stenostomum		
+Taxa00308	Bacteria			Proteobacteria		Alphaproteobacteria				Sphingomonadales										
+Taxa00309	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Pleosporomycetidae			Pleosporales										
+Taxa00310	Eukaryota	Fungi	Dikarya	Basidiomycota		Tremellomycetes				Tremellales										
+Taxa00311	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00312	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00313	Bacteria			Proteobacteria																
+Taxa00314	Eukaryota																			
+Taxa00315	Eukaryota																			
+Taxa00316	Eukaryota			Bacillariophyta																
+Taxa00317	Eukaryota	Fungi																		
+Taxa00318	Eukaryota					Colpodea				Colpodida										
+Taxa00319	Eukaryota	Viridiplantae		Chlorophyta		Ulvophyceae				Ulotrichales										
+Taxa00320	Eukaryota									Longamoebia					Acanthamoebidae			Protacanthamoeba		
+Taxa00321	Eukaryota																			
+Taxa00322	Bacteria			Proteobacteria		Alphaproteobacteria				Rhodospirillales					Rhodospirillaceae			Azospirillum		
+Taxa00323	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Acariformes	Sarcoptiformes	Oribatida	Enarthronota		Brachychthonioidea	Brachychthoniidae					
+Taxa00324	Eukaryota	Metazoa		Rotifera		Monogononta			Pseudotrocha	Ploima										
+Taxa00325	Eukaryota					Chrysophyceae														
+Taxa00326	Eukaryota			Cryptophyta						Cryptomonadales					Goniomonadaceae			Goniomonas		
+Taxa00327	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Sphaeropleales					Scenedesmaceae					
+Taxa00328	Eukaryota					Spirotrichea	Stichotrichia													
+Taxa00329	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00330	Eukaryota	Viridiplantae		Streptophyta			Pinidae			Pinales					Pinaceae			Pinus		
+Taxa00331	Eukaryota									Kinetoplastida										
+Taxa00332																				
+Taxa00333	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Polytomella		
+Taxa00334	Eukaryota	Fungi	Dikarya	Basidiomycota		Tremellomycetes				Cystofilobasidiales					Mrakiaceae			Udeniomyces		
+Taxa00335	Eukaryota																			
+Taxa00336	Eukaryota																			
+Taxa00337	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Acariformes	Trombidiformes	Prostigmata			Eriophyoidea						
+Taxa00338	Bacteria			Proteobacteria		Gammaproteobacteria				Pseudomonadales					Pseudomonadaceae					
+Taxa00339	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00340	Eukaryota	Fungi																		
+Taxa00341	Eukaryota																			
+Taxa00342																				
+Taxa00343	Eukaryota																			
+Taxa00344	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes				Polyporales										
+Taxa00345	Eukaryota	Viridiplantae		Chlorophyta		Trebouxiophyceae														
+Taxa00346	Eukaryota																			
+Taxa00347	Eukaryota									Arcellinida										
+Taxa00348	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00349	Bacteria			Proteobacteria		Alphaproteobacteria				Rhodobacterales					Rhodobacteraceae			Rhodobacter		
+Taxa00350	Eukaryota																			
+Taxa00351	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Sphaeropleales					Scenedesmaceae					
+Taxa00352	Eukaryota																			
+Taxa00353	Eukaryota																			
+Taxa00354	Eukaryota									Kinetoplastida										
+Taxa00355	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00356	Eukaryota																			
+Taxa00357	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00358																				
+Taxa00359	Eukaryota																			
+Taxa00360	Eukaryota	Metazoa																		
+Taxa00361	Eukaryota																			
+Taxa00362	Eukaryota																			
+Taxa00363	Eukaryota			Euglenida						Eutreptiales					Astasiaceae			Rhabdomonas		
+Taxa00364	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00365	Eukaryota														Vannellidae					
+Taxa00366	Eukaryota	Fungi																		
+Taxa00367	Eukaryota																			
+Taxa00368	Bacteria			Proteobacteria		Deltaproteobacteria														
+Taxa00369	Eukaryota	Metazoa		Chordata	Sarcopterygii	Mammalia														
+Taxa00370	Eukaryota			Apicomplexa		Conoidasida	Gregarinasina											Nematopsis		Nematopsis temporariae
+Taxa00371	Eukaryota																			
+Taxa00372	Eukaryota	Metazoa		Rotifera		Bdelloidea														
+Taxa00373	Eukaryota	Metazoa		Rotifera		Bdelloidea				Adinetida					Adinetidae			Adineta		
+Taxa00374	Eukaryota					Chrysophyceae														Chrysophyceae sp.
+Taxa00375	Eukaryota	Fungi																		
+Taxa00376																				
+Taxa00377	Eukaryota			Apicomplexa		Conoidasida	Gregarinasina											Nematopsis		Nematopsis temporariae
+Taxa00378	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00379	Eukaryota																			
+Taxa00380	Eukaryota																			
+Taxa00381	Eukaryota	Fungi	Dikarya	Basidiomycota																
+Taxa00382																				
+Taxa00383	Eukaryota	Viridiplantae		Chlorophyta		Trebouxiophyceae														
+Taxa00384	Eukaryota																			
+Taxa00385	Eukaryota									Kinetoplastida					Bodonidae			Neobodo		Neobodo designis
+Taxa00386	Eukaryota	Fungi																		
+Taxa00387	Eukaryota																			
+Taxa00388	Eukaryota	Metazoa		Platyhelminthes		Catenulida									Stenostomidae			Stenostomum		
+Taxa00389	Eukaryota																			
+Taxa00390	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00391	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00392	Eukaryota					Dinophyceae														
+Taxa00393	Eukaryota																			
+Taxa00394	Eukaryota	Metazoa																		
+Taxa00395	Eukaryota																			
+Taxa00396	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Acariformes	Sarcoptiformes	Oribatida	Brachypylina		Oripodoidea	Liebstadiidae					
+Taxa00397	Eukaryota																			
+Taxa00398																				
+Taxa00399	Eukaryota														Vexilliferidae			Vexillifera		
+Taxa00400	Eukaryota									Kinetoplastida					Bodonidae					
+Taxa00401	Eukaryota					Oomycetes				Pythiales					Pythiaceae			Pythium		
+Taxa00402	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00403	Eukaryota					Heterolobosea														
+Taxa00404	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Acariformes	Trombidiformes	Prostigmata			Eriophyoidea						
+Taxa00405	Bacteria			Proteobacteria		Alphaproteobacteria				Rhodospirillales					Rhodospirillaceae			Azospirillum		
+Taxa00406	Eukaryota	Fungi	Dikarya	Ascomycota																
+Taxa00407	Eukaryota			Euglenida						Euglenales										
+Taxa00408	Eukaryota					Heterolobosea				Schizopyrenida					Vahlkampfiidae			Naegleria		
+Taxa00409	Eukaryota	Metazoa		Platyhelminthes		Catenulida									Stenostomidae			Stenostomum		Stenostomum leucops
+Taxa00410	Bacteria			Proteobacteria		Betaproteobacteria														
+Taxa00411	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Pleosporomycetidae			Pleosporales										
+Taxa00412	Eukaryota	Fungi	Dikarya	Ascomycota		Eurotiomycetes	Eurotiomycetidae			Eurotiales										
+Taxa00413	Eukaryota																			
+Taxa00414	Bacteria			Proteobacteria		Betaproteobacteria														
+Taxa00415	Eukaryota	Fungi	Dikarya	Basidiomycota		Tremellomycetes				Tremellales										
+Taxa00416	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00417	Eukaryota	Fungi																		
+Taxa00418																				
+Taxa00419	Eukaryota	Metazoa		Chordata	Sarcopterygii	Mammalia														
+Taxa00420	Eukaryota																			
+Taxa00421	Bacteria			Proteobacteria		Deltaproteobacteria														
+Taxa00422	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00423	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00424	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Diptera	Nematocera	Culicomorpha		Culicoidea	Culicidae	Culicinae	Culicini			
+Taxa00425																				
+Taxa00426	Eukaryota																			
+Taxa00427																				
+Taxa00428	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00429	Bacteria																			
+Taxa00430	Bacteria			Proteobacteria		Alphaproteobacteria				Sphingomonadales					Sphingomonadaceae					
+Taxa00431	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Pleosporomycetidae			Pleosporales	Pleosporineae									
+Taxa00432	Eukaryota																			
+Taxa00433	Eukaryota	Fungi																		
+Taxa00434																				
+Taxa00435	Eukaryota									Kinetoplastida					Bodonidae					
+Taxa00436																				
+Taxa00437																				
+Taxa00438	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00439	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00440	Eukaryota	Metazoa		Arthropoda		Collembola				Poduromorpha				Poduroidea						
+Taxa00441	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00442																				
+Taxa00443	Eukaryota	Viridiplantae		Chlorophyta		Ulvophyceae				Ulotrichales										
+Taxa00444																				
+Taxa00445	Eukaryota	Viridiplantae		Chlorophyta		Ulvophyceae				Ulotrichales										
+Taxa00446	Eukaryota									Kinetoplastida										
+Taxa00447	Eukaryota																			
+Taxa00448																				
+Taxa00449	Eukaryota																			
+Taxa00450	Eukaryota			Bacillariophyta		Bacillariophyceae														
+Taxa00451	Bacteria			Proteobacteria																
+Taxa00452	Eukaryota	Fungi																		
+Taxa00453	Eukaryota																			
+Taxa00454	Eukaryota	Viridiplantae		Streptophyta																
+Taxa00455	Bacteria			Proteobacteria		Alphaproteobacteria				Rhizobiales										
+Taxa00456	Eukaryota														Paramoebidae			Korotnevella		
+Taxa00457																				
+Taxa00458	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00459	Eukaryota									Aquavolonida								Aquavolon		
+Taxa00460	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Dothideomycetidae			Dothideales					Dothioraceae			Hormonema		
+Taxa00461	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00462																				
+Taxa00463	Eukaryota			Apicomplexa		Conoidasida	Gregarinasina													
+Taxa00464	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00465	Eukaryota	Viridiplantae		Chlorophyta																
+Taxa00466																				
+Taxa00467	Eukaryota	Viridiplantae		Streptophyta		Liliopsida	Petrosaviidae			Poales					Poaceae					
+Taxa00468	Bacteria			Proteobacteria		Gammaproteobacteria														
+Taxa00469	Eukaryota	Fungi	Dikarya	Ascomycota																
+Taxa00470	Eukaryota																			
+Taxa00471	Bacteria			Proteobacteria		Alphaproteobacteria				Rhizobiales										
+Taxa00472	Eukaryota																			
+Taxa00473																				
+Taxa00474																				
+Taxa00475	Eukaryota					Ichthyosporea				Ichthyophonida								Anurofeca		
+Taxa00476	Eukaryota																			
+Taxa00477	Eukaryota																			
+Taxa00478	Eukaryota					Oomycetes														
+Taxa00479																				
+Taxa00480	Bacteria			Actinobacteria		Actinobacteria														uncultured actinobacterium
+Taxa00481	Eukaryota																			
+Taxa00482	Eukaryota																			
+Taxa00483	Eukaryota																			
+Taxa00484	Eukaryota			Euglenida						Eutreptiales					Astasiaceae			Rhabdomonas		
+Taxa00485	Eukaryota																			
+Taxa00486	Eukaryota																			
+Taxa00487	Eukaryota									Vampyrellida					Leptophryidae					
+Taxa00488	Eukaryota									Kinetoplastida										
+Taxa00489	Bacteria			Proteobacteria		Gammaproteobacteria														
+Taxa00490	Eukaryota	Viridiplantae		Streptophyta																
+Taxa00491	Eukaryota	Fungi	Dikarya	Basidiomycota		Microbotryomycetes				Sporidiobolales										
+Taxa00492	Eukaryota	Fungi																		
+Taxa00493																				
+Taxa00494	Eukaryota	Fungi	Dikarya	Ascomycota		Eurotiomycetes	Eurotiomycetidae			Eurotiales					Aspergillaceae					
+Taxa00495	Eukaryota					Oomycetes				Lagenidiales					Lagenidiaceae			Lagenidium		
+Taxa00496	Eukaryota																			
+Taxa00497																				
+Taxa00498	Eukaryota	Fungi	Dikarya	Basidiomycota		Tremellomycetes				Tremellales										
+Taxa00499	Eukaryota	Fungi		Zoopagomycota		Entomophthoromycetes				Entomophthorales					Entomophthoraceae					
+Taxa00500																				
+Taxa00501	Eukaryota	Fungi	Dikarya	Ascomycota		Eurotiomycetes	Eurotiomycetidae													
+Taxa00502	Bacteria			Proteobacteria		Betaproteobacteria														
+Taxa00503	Bacteria			Verrucomicrobia		Verrucomicrobiae				Verrucomicrobiales					Verrucomicrobiaceae					uncultured Verrucomicrobiaceae bacterium
+Taxa00504	Eukaryota	Fungi	Dikarya	Ascomycota																
+Taxa00505	Bacteria																			
+Taxa00506	Eukaryota									Kinetoplastida										
+Taxa00507																				
+Taxa00508	Eukaryota	Fungi																		
+Taxa00509	Eukaryota			Bacillariophyta																
+Taxa00510	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00511	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Acariformes	Trombidiformes	Prostigmata			Eriophyoidea						
+Taxa00512																				
+Taxa00513	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00514	Eukaryota																			
+Taxa00515	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00516	Eukaryota	Fungi	Dikarya	Basidiomycota		Tremellomycetes				Tremellales										
+Taxa00517	Eukaryota																			
+Taxa00518	Bacteria			Proteobacteria		Betaproteobacteria														
+Taxa00519	Eukaryota																			
+Taxa00520	Eukaryota																			
+Taxa00521																				
+Taxa00522	Bacteria																			
+Taxa00523	Eukaryota			Cryptophyta						Cryptomonadales					Cryptomonadaceae			Cryptomonas		Cryptomonas paramecium
+Taxa00524	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Diptera	Nematocera	Culicomorpha		Chironomoidea	Chironomidae	Chironominae	Chironomini	Polypedilum	Polypedilum	
+Taxa00525	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00526	Eukaryota	Metazoa		Chordata	Sarcopterygii	Mammalia														
+Taxa00527	Eukaryota					Chrysophyceae														
+Taxa00528	Eukaryota	Fungi	Dikarya	Basidiomycota		Tremellomycetes				Tremellales										
+Taxa00529	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00530	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Sphaeropleales					Scenedesmaceae					
+Taxa00531																				
+Taxa00532	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Thysanoptera	Terebrantia			Thripoidea	Thripidae	Thripinae				
+Taxa00533	Eukaryota																			
+Taxa00534	Eukaryota	Metazoa		Arthropoda		Arachnida														
+Taxa00535	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00536																				
+Taxa00537	Eukaryota																			
+Taxa00538	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes	Agaricomycetidae			Agaricales										
+Taxa00539	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Diptera	Nematocera	Culicomorpha		Chironomoidea	Chironomidae	Orthocladiinae				
+Taxa00540	Eukaryota					Spirotrichea	Stichotrichia													
+Taxa00541																				
+Taxa00542	Eukaryota									Choanoflagellida										
+Taxa00543	Eukaryota																			
+Taxa00544	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Diptera	Nematocera	Culicomorpha		Culicoidea	Culicidae	Culicinae				
+Taxa00545	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00546	Eukaryota																			
+Taxa00547	Eukaryota	Fungi	Dikarya	Ascomycota		Eurotiomycetes	Eurotiomycetidae			Eurotiales					Aspergillaceae			Penicillium		
+Taxa00548	Eukaryota																			
+Taxa00549	Eukaryota	Viridiplantae		Streptophyta						Apiales	Apiineae				Araliaceae			Panax		
+Taxa00550	Eukaryota									Cercomonadida					Cercomonadidae					
+Taxa00551	Eukaryota	Fungi		Zoopagomycota		Entomophthoromycetes				Entomophthorales					Entomophthoraceae					
+Taxa00552	Eukaryota																			
+Taxa00553	Eukaryota	Fungi																		
+Taxa00554	Eukaryota	Viridiplantae		Chlorophyta		Trebouxiophyceae				Trebouxiales					Trebouxiaceae			Parietochloris		
+Taxa00555	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes				Corticiales					Corticiaceae			Hyphodontia		
+Taxa00556	Eukaryota	Fungi																		
+Taxa00557	Eukaryota	Metazoa																		
+Taxa00558	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes	Agaricomycetidae			Agaricales										
+Taxa00559	Eukaryota					Oomycetes				Saprolegniales					Saprolegniaceae					
+Taxa00560	Eukaryota									Bicosoecida										
+Taxa00561	Bacteria			Proteobacteria		Alphaproteobacteria				Rhizobiales										
+Taxa00562	Eukaryota																			
+Taxa00563																				
+Taxa00564	Eukaryota	Fungi	Dikarya	Ascomycota		Saccharomycetes				Saccharomycetales					Saccharomycetaceae			Saccharomyces		
+Taxa00565	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00566	Eukaryota									Vampyrellida					Leptophryidae					
+Taxa00567	Bacteria			Proteobacteria		Gammaproteobacteria														
+Taxa00568	Eukaryota	Fungi	Dikarya	Ascomycota		Eurotiomycetes	Chaetothyriomycetidae			Chaetothyriales										
+Taxa00569	Eukaryota									Vampyrellida					Leptophryidae					
+Taxa00570	Eukaryota																			
+Taxa00571	Eukaryota	Viridiplantae		Streptophyta																
+Taxa00572	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Thysanoptera	Tubulifera			Phlaeothripoidea	Phlaeothripidae					
+Taxa00573	Eukaryota														Paramoebidae			Korotnevella		
+Taxa00574																				
+Taxa00575	Eukaryota									Bicosoecida										
+Taxa00576	Eukaryota					Litostomatea	Haptoria			Haptorida										
+Taxa00577	Eukaryota	Fungi		Zoopagomycota		Entomophthoromycetes				Entomophthorales					Entomophthoraceae					
+Taxa00578	Eukaryota					Chrysophyceae														uncultured Chrysophyceae
+Taxa00579	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00580	Eukaryota					Oomycetes														
+Taxa00581	Eukaryota																			
+Taxa00582	Eukaryota	Fungi	Dikarya	Basidiomycota																
+Taxa00583	Bacteria			Proteobacteria		Gammaproteobacteria														
+Taxa00584	Eukaryota			Euglenida						Euglenales					Euglenaceae			Euglena		
+Taxa00585	Eukaryota	Viridiplantae		Streptophyta																
+Taxa00586	Eukaryota																			
+Taxa00587	Eukaryota																			
+Taxa00588	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00589	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Thysanoptera	Terebrantia			Thripoidea	Thripidae	Thripinae		Anaphothrips		
+Taxa00590	Eukaryota																	Kraken		Kraken carinae
+Taxa00591	Eukaryota																			
+Taxa00592	Eukaryota	Fungi		Mucoromycota		Glomeromycetes														
+Taxa00593	Eukaryota					Litostomatea	Haptoria			Pleurostomatida										
+Taxa00594	Eukaryota									Longamoebia								Mayorella		
+Taxa00595	Bacteria			Proteobacteria		Alphaproteobacteria				Rhizobiales										
+Taxa00596	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00597	Eukaryota									Vampyrellida					Leptophryidae					
+Taxa00598	Bacteria			Proteobacteria		Betaproteobacteria				Neisseriales					Chromobacteriaceae					
+Taxa00599	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00600	Eukaryota														Hartmannellidae					
+Taxa00601	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00602	Eukaryota	Viridiplantae		Chlorophyta																
+Taxa00603	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Hemiptera	Sternorrhyncha			Psylloidea						
+Taxa00604																				
+Taxa00605	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00606	Eukaryota																			
+Taxa00607	Eukaryota																			
+Taxa00608	Eukaryota																			
+Taxa00609	Eukaryota																			
+Taxa00610	Eukaryota			Bacillariophyta		Bacillariophyceae														
+Taxa00611	Eukaryota																			
+Taxa00612	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00613																				
+Taxa00614	Bacteria			Proteobacteria		Gammaproteobacteria														
+Taxa00615	Eukaryota																			
+Taxa00616																				
+Taxa00617	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00618	Bacteria			Verrucomicrobia		Opitutae				Opitutales					Opitutaceae					
+Taxa00619	Eukaryota																			
+Taxa00620	Eukaryota					Dinophyceae														
+Taxa00621	Eukaryota																			
+Taxa00622	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00623	Eukaryota	Fungi	Dikarya	Ascomycota																
+Taxa00624	Bacteria			Proteobacteria																
+Taxa00625	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00626																				
+Taxa00627	Eukaryota																			
+Taxa00628	Bacteria			Proteobacteria		Alphaproteobacteria				Sphingomonadales					Sphingomonadaceae					
+Taxa00629																				
+Taxa00630	Eukaryota					Dinophyceae														
+Taxa00631	Eukaryota					Dinophyceae														
+Taxa00632	Eukaryota					Dinophyceae														
+Taxa00633																				
+Taxa00634																				
+Taxa00635	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00636	Eukaryota					Oomycetes				Lagenidiales					Lagenidiaceae			Lagenidium		
+Taxa00637	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00638	Bacteria			Proteobacteria		Gammaproteobacteria				Enterobacterales					Erwiniaceae			Buchnera		Buchnera aphidicola
+Taxa00639	Bacteria			Proteobacteria		Alphaproteobacteria				Rhizobiales					Rhizobiaceae					
+Taxa00640	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Pleosporomycetidae			Pleosporales										
+Taxa00641																				
+Taxa00642	Eukaryota	Fungi	Dikarya																	
+Taxa00643	Bacteria			Proteobacteria		Gammaproteobacteria				Pseudomonadales					Pseudomonadaceae			Pseudomonas		
+Taxa00644	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00645	Eukaryota	Fungi	Dikarya	Ascomycota		Eurotiomycetes	Eurotiomycetidae			Eurotiales										
+Taxa00646	Eukaryota																			
+Taxa00647	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00648	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Parasitiformes	Mesostigmata	Monogynaspida	Gamasina		Phytoseioidea						
+Taxa00649	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00650	Bacteria			Proteobacteria		Betaproteobacteria														
+Taxa00651	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00652	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Acariformes	Trombidiformes	Prostigmata	Eleutherengona								
+Taxa00653	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00654																				
+Taxa00655																				
+Taxa00656																				
+Taxa00657																				
+Taxa00658	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Diptera	Nematocera	Culicomorpha		Culicoidea	Culicidae	Culicinae				
+Taxa00659																				
+Taxa00660	Eukaryota					Dinophyceae														
+Taxa00661	Bacteria			Proteobacteria		Deltaproteobacteria														uncultured delta proteobacterium
+Taxa00662	Eukaryota																			
+Taxa00663	Eukaryota	Metazoa		Arthropoda																
+Taxa00664	Eukaryota																			
+Taxa00665	Eukaryota					Litostomatea	Haptoria													
+Taxa00666																				
+Taxa00667	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00668	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Pleosporomycetidae			Pleosporales										
+Taxa00669	Eukaryota			Euglenida						Eutreptiales					Astasiaceae			Rhabdomonas		
+Taxa00670	Eukaryota			Cryptophyta						Cryptomonadales					Cryptomonadaceae					
+Taxa00671	Eukaryota			Cryptophyta																
+Taxa00672	Eukaryota																			
+Taxa00673	Eukaryota	Metazoa		Mollusca		Gastropoda	Heterobranchia		Eupulmonata	Stylommatophora										
+Taxa00674	Eukaryota																			
+Taxa00675	Eukaryota																			
+Taxa00676	Eukaryota	Fungi	Dikarya	Basidiomycota																
+Taxa00677	Bacteria			Proteobacteria		Alphaproteobacteria				Rhizobiales										
+Taxa00678	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Pleosporomycetidae			Pleosporales	Pleosporineae									
+Taxa00679	Eukaryota	Fungi	Dikarya	Basidiomycota		Tremellomycetes				Tremellales										
+Taxa00680	Bacteria																			
+Taxa00681	Eukaryota	Metazoa		Chordata																
+Taxa00682	Eukaryota	Fungi	Dikarya	Basidiomycota																
+Taxa00683	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00684	Eukaryota																			
+Taxa00685	Eukaryota																			
+Taxa00686																				
+Taxa00687	Eukaryota																			
+Taxa00688	Eukaryota	Fungi																		
+Taxa00689	Eukaryota	Fungi	Dikarya	Basidiomycota		Ustilaginomycetes				Ustilaginales					Ustilaginaceae					
+Taxa00690																				
+Taxa00691	Eukaryota					Chrysophyceae														
+Taxa00692																				
+Taxa00693	Bacteria																			
+Taxa00694	Eukaryota									Protosteliales										
+Taxa00695	Bacteria			Proteobacteria		Alphaproteobacteria				Caulobacterales										
+Taxa00696																				
+Taxa00697	Bacteria																			
+Taxa00698	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00699	Eukaryota																			
+Taxa00700																				
+Taxa00701	Bacteria			Proteobacteria		Oligoflexia				Bdellovibrionales										
+Taxa00702																				
+Taxa00703	Bacteria			Proteobacteria																
+Taxa00704	Eukaryota																			
+Taxa00705	Eukaryota									Kinetoplastida										
+Taxa00706	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Diptera	Nematocera	Bibionomorpha		Sciaroidea						
+Taxa00707																				
+Taxa00708	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Hemiptera	Heteroptera	Gerromorpha		Gerroidea						
+Taxa00709																				
+Taxa00710	Eukaryota			Cryptophyta						Cryptomonadales					Cryptomonadaceae			Cryptomonas		Cryptomonas paramecium
+Taxa00711	Eukaryota																			
+Taxa00712	Eukaryota																			
+Taxa00713	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00714	Eukaryota			Apicomplexa		Conoidasida	Gregarinasina													
+Taxa00715	Bacteria			Proteobacteria																
+Taxa00716																				
+Taxa00717	Eukaryota	Fungi	Dikarya	Basidiomycota																
+Taxa00718	Eukaryota	Fungi	Dikarya	Ascomycota																
+Taxa00719	Eukaryota																			
+Taxa00720	Bacteria			Proteobacteria		Gammaproteobacteria														
+Taxa00721	Eukaryota																			
+Taxa00722	Eukaryota														Paramoebidae			Korotnevella		
+Taxa00723	Bacteria			Proteobacteria		Alphaproteobacteria				Rhodospirillales					Acetobacteraceae			Acidocella		
+Taxa00724																				
+Taxa00725	Bacteria			Proteobacteria		Deltaproteobacteria														
+Taxa00726	Eukaryota																	Ischnamoeba		
+Taxa00727	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Hemiptera	Sternorrhyncha	Aphidomorpha		Aphidoidea						
+Taxa00728																				
+Taxa00729	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Pleosporomycetidae			Pleosporales										
+Taxa00730																				
+Taxa00731	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00732	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00733	Eukaryota					Oligohymenophorea	Scuticociliatia													
+Taxa00734	Eukaryota					Oomycetes														
+Taxa00735	Eukaryota									Arcellinida										
+Taxa00736	Eukaryota	Fungi	Dikarya	Ascomycota		Dothideomycetes	Dothideomycetidae			Dothideales										
+Taxa00737	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Acariformes	Trombidiformes	Prostigmata	Eleutherengona								
+Taxa00738	Eukaryota	Fungi	Dikarya	Basidiomycota																
+Taxa00739	Eukaryota			Apicomplexa		Conoidasida	Coccidia			Eucoccidiorida	Eimeriorina				Eimeriidae					uncultured Eimeriidae
+Taxa00740	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00741	Eukaryota									Himatismenida					Cochliopodiidae			Cochliopodium		
+Taxa00742	Bacteria			Proteobacteria																
+Taxa00743	Eukaryota	Fungi																		
+Taxa00744	Eukaryota			Euglenida																
+Taxa00745	Eukaryota	Metazoa		Chordata																
+Taxa00746	Eukaryota														Vannellidae					
+Taxa00747	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae			Chlamydomonas		
+Taxa00748	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes				Russulales					Lachnocladiaceae					
+Taxa00749	Bacteria			Proteobacteria		Deltaproteobacteria				Desulfuromonadales										
+Taxa00750	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00751	Eukaryota																			
+Taxa00752	Eukaryota																			
+Taxa00753	Eukaryota			Euglenida						Euglenales										
+Taxa00754																				
+Taxa00755																				
+Taxa00756																				
+Taxa00757																				
+Taxa00758	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00759	Eukaryota	Viridiplantae		Chlorophyta																
+Taxa00760																				
+Taxa00761	Bacteria																			
+Taxa00762	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales										
+Taxa00763	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae				Chlamydomonadales					Chlamydomonadaceae					
+Taxa00764	Bacteria			Proteobacteria																
+Taxa00765	Bacteria			Proteobacteria		Alphaproteobacteria				Rhodospirillales					Rhodospirillaceae					
+Taxa00766	Eukaryota	Fungi	Dikarya	Basidiomycota																
+Taxa00767	Bacteria																			
+Taxa00768	Eukaryota	Fungi	Dikarya	Ascomycota		Taphrinomycetes				Taphrinales					Taphrinaceae			Taphrina		
+Taxa00769	Eukaryota	Fungi																		
+Taxa00770	Eukaryota	Viridiplantae																		
+Taxa00771	Eukaryota	Viridiplantae		Chlorophyta		Chlorophyceae														
+Taxa00772	Eukaryota														Paramoebidae			Korotnevella		
+Taxa00773	Bacteria																			
+Taxa00774	Bacteria			Proteobacteria		Deltaproteobacteria														
+Taxa00775	Eukaryota					Dinophyceae														
+Taxa00776	Eukaryota			Cryptophyta						Cryptomonadales					Goniomonadaceae			Goniomonas		
+Taxa00777	Eukaryota									Protosteliales					Protosteliaceae			Protostelium		Protostelium mycophagum
+Taxa00778	Eukaryota																			
+Taxa00779	Eukaryota	Fungi	Dikarya	Basidiomycota																
+Taxa00780	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00781	Eukaryota																			
+Taxa00782	Eukaryota	Fungi																		
+Taxa00783	Eukaryota	Fungi		Zoopagomycota		Entomophthoromycetes				Entomophthorales					Entomophthoraceae			Pandora		
+Taxa00784																				
+Taxa00785	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00786	Eukaryota	Fungi																		
+Taxa00787	Eukaryota																			
+Taxa00788	Bacteria																			
+Taxa00789	Eukaryota																			
+Taxa00790	Bacteria			Proteobacteria		Gammaproteobacteria				Pseudomonadales					Pseudomonadaceae					
+Taxa00791	Eukaryota					Oligohymenophorea	Peritrichia													
+Taxa00792	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Diptera	Nematocera	Culicomorpha		Culicoidea	Culicidae	Culicinae	Culicini	Culex		
+Taxa00793	Eukaryota	Viridiplantae																		
+Taxa00794	Eukaryota														Vannellidae					
+Taxa00795	Eukaryota	Fungi																		
+Taxa00796	Eukaryota	Fungi		Zoopagomycota		Entomophthoromycetes				Entomophthorales					Entomophthoraceae					
+Taxa00797	Bacteria																			
+Taxa00798	Bacteria			Proteobacteria																
+Taxa00799																				
+Taxa00800	Bacteria			Proteobacteria		Gammaproteobacteria														
+Taxa00801	Eukaryota	Fungi		Blastocladiomycota		Blastocladiomycetes				Blastocladiales										
+Taxa00802																				
+Taxa00803	Eukaryota																			
+Taxa00804	Eukaryota														Vexilliferidae			Vexillifera		Vexillifera bacillipedes
+Taxa00805																				
+Taxa00806	Eukaryota																			
+Taxa00807	Eukaryota																			
+Taxa00808	Eukaryota									Himatismenida					Cochliopodiidae			Cochliopodium		
+Taxa00809	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00810	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Acariformes	Trombidiformes	Prostigmata	Eleutherengona		Tetranychoidea	Tetranychidae			Tetranychus		Tetranychus urticae
+Taxa00811	Eukaryota																			
+Taxa00812	Eukaryota	Viridiplantae		Streptophyta		Liliopsida	Petrosaviidae			Poales					Poaceae					
+Taxa00813	Eukaryota			Bacillariophyta																
+Taxa00814	Eukaryota	Fungi	Dikarya	Ascomycota		Saccharomycetes				Saccharomycetales					Trichomonascaceae					
+Taxa00815	Eukaryota					Eustigmatophyceae				Eustigmatales										
+Taxa00816	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes				Cantharellales					Tulasnellaceae					
+Taxa00817	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Diptera	Nematocera	Culicomorpha		Chironomoidea	Chironomidae	Tanypodinae	Pentaneurini	Ablabesmyia		
+Taxa00818	Eukaryota																			
+Taxa00819	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00820	Bacteria			Proteobacteria		Gammaproteobacteria				Enterobacterales										
+Taxa00821	Eukaryota									Protosteliales					Cavosteliaceae			Planoprotostelium		Planoprotostelium aurantium
+Taxa00822	Eukaryota														Vannellidae					
+Taxa00823	Eukaryota	Fungi																		
+Taxa00824	Eukaryota			Apicomplexa		Conoidasida	Gregarinasina													
+Taxa00825	Eukaryota																			
+Taxa00826	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00827	Bacteria			Proteobacteria		Alphaproteobacteria														
+Taxa00828																				
+Taxa00829	Eukaryota			Bacillariophyta		Coscinodiscophyceae	Thalassiosirophycidae			Thalassiosirales					Stephanodiscaceae			Cyclotella		
+Taxa00830	Bacteria			Verrucomicrobia		Opitutae				Opitutales					Opitutaceae			Opitutus		uncultured Opitutus sp.
+Taxa00831	Eukaryota			Euglenida						Euglenales					Euglenaceae			Euglena		Euglena agilis
+Taxa00832																				
+Taxa00833	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricostilbomycetes				Agaricostilbales					Kondoaceae			Kondoa		
+Taxa00834	Eukaryota									Arcellinida										
+Taxa00835	Bacteria			Proteobacteria																
+Taxa00836	Eukaryota																			
+Taxa00837	Eukaryota	Fungi	Dikarya	Basidiomycota																
+Taxa00838																				
+Taxa00839	Eukaryota									Protosteliales					Protosteliaceae			Protostelium		Protostelium mycophagum
+Taxa00840	Eukaryota																			
+Taxa00841	Eukaryota					Chrysophyceae														
+Taxa00842	Eukaryota																			
+Taxa00843	Eukaryota																			
+Taxa00844	Eukaryota									Protosteliales										
+Taxa00845	Eukaryota	Viridiplantae		Chlorophyta		Trebouxiophyceae														
+Taxa00846	Eukaryota	Fungi		Zoopagomycota		Entomophthoromycetes				Entomophthorales					Entomophthoraceae			Entomophthora		
+Taxa00847																				
+Taxa00848	Eukaryota														Vannellidae					
+Taxa00849																				
+Taxa00850	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Coleoptera	Adephaga			Dytiscoidea	Dytiscidae					
+Taxa00851	Eukaryota																			
+Taxa00852	Eukaryota									Longamoebia								Mayorella		Mayorella sp.
+Taxa00853	Eukaryota			Euglenida						Euglenales										
+Taxa00854																				
+Taxa00855																				
+Taxa00856	Eukaryota									Choanoflagellida										
+Taxa00857	Eukaryota																	Darbyshirella		
+Taxa00858	Bacteria																			
+Taxa00859	Eukaryota																			
+Taxa00860	Bacteria																			
+Taxa00861	Eukaryota									Cercomonadida					Cercomonadidae					
+Taxa00862	Bacteria			Proteobacteria		Deltaproteobacteria														
+Taxa00863	Bacteria			Proteobacteria		Deltaproteobacteria				Desulfobacterales										
+Taxa00864	Eukaryota																			
+Taxa00865																				
+Taxa00866	Eukaryota																			
+Taxa00867	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes														
+Taxa00868	Eukaryota																	Gymnophrys		
+Taxa00869	Eukaryota																			
+Taxa00870																				
+Taxa00871	Eukaryota																			
+Taxa00872	Eukaryota	Viridiplantae		Chlorophyta		Trebouxiophyceae												Chloroidium		
+Taxa00873	Bacteria			Proteobacteria		Betaproteobacteria														
+Taxa00874	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes				Cantharellales					Tulasnellaceae					
+Taxa00875	Bacteria			Proteobacteria																
+Taxa00876																				
+Taxa00877	Bacteria			Proteobacteria		Deltaproteobacteria														
+Taxa00878	Eukaryota																			
+Taxa00879																				
+Taxa00880	Eukaryota									Himatismenida					Cochliopodiidae			Cochliopodium		
+Taxa00881	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes				Cantharellales					Tulasnellaceae					
+Taxa00882	Bacteria																			
+Taxa00883	Eukaryota																			
+Taxa00884																				
+Taxa00885	Eukaryota																			
+Taxa00886	Bacteria			Proteobacteria		Deltaproteobacteria														
+Taxa00887	Eukaryota					Heterolobosea														
+Taxa00888	Eukaryota	Fungi	Dikarya	Ascomycota		Saccharomycetes				Saccharomycetales					Dipodascaceae					
+Taxa00889	Eukaryota	Fungi																		
+Taxa00890	Bacteria			Proteobacteria																
+Taxa00891	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes				Cantharellales					Tulasnellaceae			Tulasnella		
+Taxa00892	Eukaryota	Fungi																		
+Taxa00893	Bacteria			Proteobacteria		Deltaproteobacteria				Desulfovibrionales					Desulfovibrionaceae			Desulfovibrio		Desulfovibrio sp.
+Taxa00894	Eukaryota	Fungi	Dikarya	Ascomycota		Leotiomycetes				Helotiales					Sclerotiniaceae					
+Taxa00895	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera		Hymenoptera										
+Taxa00896	Eukaryota	Metazoa		Arthropoda		Insecta	Pterygota	Neoptera	Amphiesmenoptera	Lepidoptera	Glossata	Neolepidoptera	Heteroneura							
+Taxa00897																				
+Taxa00898	Eukaryota																			
+Taxa00899	Bacteria			Planctomycetes		Planctomycetia				Planctomycetales										
+Taxa00900	Eukaryota	Fungi		Mucoromycota		Mucoromycetes				Mucorales										
+Taxa00901	Eukaryota	Metazoa		Arthropoda		Arachnida	Acari		Acariformes	Trombidiformes	Prostigmata			Eriophyoidea	Eriophyidae	Phyllocoptinae				
+Taxa00902	Eukaryota									Longamoebia					Thecamoebida			Stenamoeba		
+Taxa00903	Bacteria			Proteobacteria		Deltaproteobacteria														
+Taxa00904	Eukaryota			Euglenida						Euglenales										
+Taxa00905	Eukaryota																			
+Taxa00906	Eukaryota	Fungi																		
+Taxa00907	Eukaryota	Fungi	Dikarya	Basidiomycota		Agaricomycetes	Agaricomycetidae			Agaricales					Hygrophoraceae			Chrysomphalina		Chrysomphalina chrysophylla
