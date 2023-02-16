@@ -1,0 +1,44 @@
+####
+#### RNA-seq analysis: Docker version
+####
+
+# ------------------- For the 1st sequence ------------------- #
+# Copy original fastq files from archives
+cp /20210115_RNAexpCERrice2019/00_original_data_only/seqdata_201912_1stRUN/*.gz \
+/20210115_RNAexpCERrice2019/01_RNAseq_CER2019_1stRUN/data/org
+
+# Rename fastq file for docker
+cd /20210115_RNAexpCERrice2019/01_RNAseq_CER2019_1stRUN/data/org
+for f in *OsaUC_3_*; do mv $f ${f/OsaUC_3_IPg/OsaUC_Index}; done
+
+# Analysis for the 1st RUN
+sudo docker run -it --rm \
+-u=$(id -u):$(id -g) \
+-v 20210115_RNAexpCERrice2019/01_RNAseq_CER2019_1stRUN:/work \
+biodocker_rnaseq_pipeline:ver.0.2.2 \
+-m UMI \
+-u 10 \
+-c 72 \
+-r Osa
+
+
+# ------------------- For the 2nd sequence ------------------- #
+# Copy original fastq files from archives
+cp 20210115_RNAexpCERrice2019/00_original_data_only/seqdata_202002_2ndRUN/*.gz \
+20210115_RNAexpCERrice2019/02_RNAseq_CER2019_2ndRUN/data/org
+
+# Rename fastq file for docker
+cd 20210115_RNAexpCERrice2019/02_RNAseq_CER2019_2ndRUN/data/org
+for f in *OsaCU-4_*; do mv $f ${f/OsaCU-4_/OsaUC2_}; done
+rename 's/(\d+)/sprintf("Index%03d", $1)/e' *.gz
+
+# Analysis for the 2nd RUN
+sudo docker run -it --rm \
+-u=$(id -u):$(id -g) \
+-v 20210115_RNAexpCERrice2019/02_RNAseq_CER2019_2ndRUN:/work \
+biodocker_rnaseq_pipeline:ver.0.2.2 \
+-m UMI \
+-u 10 \
+-c 72 \
+-r Osa
+

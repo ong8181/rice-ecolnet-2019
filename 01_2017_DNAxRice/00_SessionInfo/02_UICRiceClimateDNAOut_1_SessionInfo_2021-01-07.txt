@@ -1,0 +1,50 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Mojave 10.14.6
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods  
+[7] base     
+
+other attached packages:
+ [1] phyloseq_1.34.0 ggsci_2.9       cowplot_1.1.0  
+ [4] forcats_0.5.0   stringr_1.4.0   dplyr_1.0.2    
+ [7] purrr_0.3.4     readr_1.4.0     tidyr_1.1.2    
+[10] tibble_3.0.4    ggplot2_3.3.2   tidyverse_1.3.0
+[13] rUIC_0.1.5     
+
+loaded via a namespace (and not attached):
+ [1] Biobase_2.50.0      httr_1.4.2          splines_4.0.3      
+ [4] jsonlite_1.7.1      foreach_1.5.1       modelr_0.1.8       
+ [7] assertthat_0.2.1    stats4_4.0.3        blob_1.2.1         
+[10] cellranger_1.1.0    progress_1.2.2      pillar_1.4.6       
+[13] backports_1.1.10    lattice_0.20-41     glue_1.4.2         
+[16] digest_0.6.27       XVector_0.30.0      rvest_0.3.6        
+[19] colorspace_1.4-1    Matrix_1.2-18       plyr_1.8.6         
+[22] pkgconfig_2.0.3     broom_0.7.2         haven_2.3.1        
+[25] zlibbioc_1.36.0     scales_1.1.1        mgcv_1.8-33        
+[28] generics_0.1.0      farver_2.0.3        IRanges_2.24.0     
+[31] ellipsis_0.3.1      withr_2.3.0         BiocGenerics_0.36.0
+[34] cli_2.1.0           survival_3.2-7      magrittr_1.5       
+[37] crayon_1.3.4        readxl_1.3.1        fs_1.5.0           
+[40] fansi_0.4.1         nlme_3.1-150        MASS_7.3-53        
+[43] xml2_1.3.2          vegan_2.5-6         data.table_1.13.2  
+[46] tools_4.0.3         prettyunits_1.1.1   hms_0.5.3          
+[49] lifecycle_0.2.0     Rhdf5lib_1.12.0     S4Vectors_0.28.0   
+[52] munsell_0.5.0       reprex_0.3.0        cluster_2.1.0      
+[55] Biostrings_2.58.0   ade4_1.7-16         compiler_4.0.3     
+[58] rlang_0.4.9         rhdf5_2.34.0        grid_4.0.3         
+[61] iterators_1.0.13    rhdf5filters_1.2.0  biomformat_1.18.0  
+[64] rstudioapi_0.13     igraph_1.2.6        labeling_0.4.2     
+[67] multtest_2.46.0     gtable_0.3.0        codetools_0.2-16   
+[70] DBI_1.1.0           reshape2_1.4.4      R6_2.5.0           
+[73] lubridate_1.7.9     permute_0.9-5       ape_5.4-1          
+[76] stringi_1.5.3       parallel_4.0.3      Rcpp_1.0.5         
+[79] vctrs_0.3.4         dbplyr_1.4.4        tidyselect_1.1.0   

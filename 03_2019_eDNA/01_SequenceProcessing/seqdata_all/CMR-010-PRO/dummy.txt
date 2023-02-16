@@ -1,0 +1,1 @@
+Sequence data is archived in DDBJ. See README.

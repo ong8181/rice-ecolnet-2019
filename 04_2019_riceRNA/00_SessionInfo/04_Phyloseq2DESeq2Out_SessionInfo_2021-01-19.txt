@@ -1,0 +1,51 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Mojave 10.14.6
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] parallel  stats4    stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] ggpubr_0.4.0                DESeq2_1.30.0               SummarizedExperiment_1.20.0
+ [4] Biobase_2.50.0              MatrixGenerics_1.2.0        matrixStats_0.57.0         
+ [7] GenomicRanges_1.42.0        GenomeInfoDb_1.26.2         IRanges_2.24.1             
+[10] S4Vectors_0.28.1            BiocGenerics_0.36.0         ggsci_2.9                  
+[13] cowplot_1.1.1               lubridate_1.7.9.2           forcats_0.5.0              
+[16] stringr_1.4.0               dplyr_1.0.2                 purrr_0.3.4                
+[19] readr_1.4.0                 tidyr_1.1.2                 tibble_3.0.4               
+[22] ggplot2_3.3.3               tidyverse_1.3.0             phyloseq_1.34.0            
+
+loaded via a namespace (and not attached):
+  [1] colorspace_2.0-0       ggsignif_0.6.0         rio_0.5.16             ellipsis_0.3.1        
+  [5] XVector_0.30.0         fs_1.5.0               rstudioapi_0.13        farver_2.0.3          
+  [9] ggrepel_0.9.0          bit64_4.0.5            AnnotationDbi_1.52.0   fansi_0.4.1           
+ [13] xml2_1.3.2             codetools_0.2-18       splines_4.0.3          geneplotter_1.68.0    
+ [17] ade4_1.7-16            jsonlite_1.7.2         broom_0.7.3            annotate_1.68.0       
+ [21] cluster_2.1.0          dbplyr_2.0.0           compiler_4.0.3         httr_1.4.2            
+ [25] backports_1.2.1        assertthat_0.2.1       Matrix_1.3-2           cli_2.2.0             
+ [29] prettyunits_1.1.1      tools_4.0.3            igraph_1.2.6           gtable_0.3.0          
+ [33] glue_1.4.2             GenomeInfoDbData_1.2.4 reshape2_1.4.4         Rcpp_1.0.5            
+ [37] carData_3.0-4          cellranger_1.1.0       vctrs_0.3.6            Biostrings_2.58.0     
+ [41] rhdf5filters_1.2.0     multtest_2.46.0        ape_5.4-1              nlme_3.1-151          
+ [45] iterators_1.0.13       openxlsx_4.2.3         rvest_0.3.6            lifecycle_0.2.0       
+ [49] rstatix_0.6.0          XML_3.99-0.5           zlibbioc_1.36.0        MASS_7.3-53           
+ [53] scales_1.1.1           hms_0.5.3              biomformat_1.18.0      rhdf5_2.34.0          
+ [57] RColorBrewer_1.1-2     curl_4.3               memoise_1.1.0          stringi_1.5.3         
+ [61] RSQLite_2.2.2          genefilter_1.72.0      foreach_1.5.1          permute_0.9-5         
+ [65] zip_2.1.1              BiocParallel_1.24.1    rlang_0.4.10           pkgconfig_2.0.3       
+ [69] bitops_1.0-6           lattice_0.20-41        Rhdf5lib_1.12.0        labeling_0.4.2        
+ [73] bit_4.0.4              tidyselect_1.1.0       plyr_1.8.6             magrittr_2.0.1        
+ [77] R6_2.5.0               generics_0.1.0         DelayedArray_0.16.0    DBI_1.1.0             
+ [81] foreign_0.8-81         pillar_1.4.7           haven_2.3.1            withr_2.3.0           
+ [85] mgcv_1.8-33            abind_1.4-5            survival_3.2-7         RCurl_1.98-1.2        
+ [89] car_3.0-10             modelr_0.1.8           crayon_1.3.4           progress_1.2.2        
+ [93] locfit_1.5-9.4         grid_4.0.3             readxl_1.3.1           data.table_1.13.6     
+ [97] blob_1.2.1             vegan_2.5-7            reprex_0.3.0           digest_0.6.27         
+[101] xtable_1.8-4           munsell_0.5.0         
