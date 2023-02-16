@@ -6,6 +6,7 @@ This repository contains analysis codes to reproduce the results in Ushio et al.
 See LICENSE.
 
 
+# Analysis workflow
 ## Step 1. Detection of causal relationships between ecological community members and rice growth in 2017
 - `01_2017_DNAxRice/`: Codes for Unified Information-theoretic Causality (UIC) analysis of quantitative environmental DNA data and rice growth in 2017.<br>
 
