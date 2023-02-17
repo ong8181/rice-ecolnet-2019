@@ -29,4 +29,4 @@ see text files in `00_SessionInfo/`
 
 
 # Data availablity
-Sequence data are deposited in DDBJ Sequence Read Archives (DRA). The accession numbers are as follows: DRA009658, DRA009659, DRA009660, and DRA009661 for eDNA data of ecological communities in 2017 (Ushio 2022 _Proceedings of the Royal Society B_ https://doi.org/10.1098/rspb.2021.2690), DRA015682, DRA015683, DRA015685, and DRA015686 for eDNA data of ecological communities in 2019, and DRAXXXXX for rice RNA expression data.
+Sequence data are deposited in DDBJ Sequence Read Archives (DRA). The accession numbers are as follows: DRA009658, DRA009659, DRA009660, and DRA009661 for eDNA data of ecological communities in 2017 (Ushio 2022 _Proceedings of the Royal Society B_ https://doi.org/10.1098/rspb.2021.2690), DRA015682, DRA015683, DRA015685, and DRA015686 for eDNA data of ecological communities in 2019, and DRA015706 for rice RNA expression data.
