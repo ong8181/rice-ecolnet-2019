@@ -1,5 +1,5 @@
 ---
-title: \color{TitleColor} \fontsize{24pt}{1.0cm}\selectfont__Supporting Information for "Detecting and validating influential organisms for rice growth$:$ An ecological network approach"__
+title: \color{TitleColor} \fontsize{20pt}{0.8cm}\selectfont__Supporting Information for "Detecting and validating influential organisms for rice growth$:$ An ecological network approach"__
 author:
   - Masayuki Ushio$^*$, Hiroki Saito, Motoyuki Tojo, Atsushi J. Nagano
 date:
