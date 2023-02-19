@@ -69,13 +69,13 @@ For all analyses after this subsection, the free statistical environment R was u
 We detected potentially influential organisms for rich growth nonlinear time series analysis based on the quantitative, 1197-species eDNA time-series [@Ushio2022Interaction] and rice growth rate measured in 2017. We quantified information flow from eDNA time series to rice growth rate (i.e., a proxy of interaction between an organism and rice growth) by the “unified information-theoretic causality (UIC)” method implemented in the “rUIC” package [@Osada2021R] of R. UIC tests the statistical clarity of information flow between variables in terms of transfer entropy (TE) [@Frenzel2007Partial; @Schreiber2000Measuring] computed by nearest neighbor regression based on time-embedded explanatory variables [i.e., cross-mapping: @Sugihara2012Detecting]. In contrast to the standard method used to measure TE, UIC quantifies information flow as follows:
 
 $$
-TE = \frac{1}{T}\sum_{t=1}^{T} log(\frac{p(y_{t+tp}|x_t, x_{t-\tau}, ...,  x_{t-(E-1)\tau}}{p(y_{t+tp}|x_{t-\tau},x_{t-2\tau}, ...,  x_{t-(E-1)\tau})}) \qquad...\:[1]
+TE = \frac{1}{T}\sum_{t=1}^{T} \log(\frac{p(y_{t+tp}|x_t, x_{t-\tau}, ...,  x_{t-(E-1)\tau})}{p(y_{t+tp}|x_{t-\tau},x_{t-2\tau}, ...,  x_{t-(E-1)\tau})}) \qquad...\:[1]
 $$
 
 where $x$, $y$, and $z$ represent a potential causal variable, effect variable, and conditional variable (in our case, climate variables if they are causal factors), respectively. $p(A|B)$ represents conditional probability: the probability of $A$ conditioned on $B$. $t$, $tp$, $\tau$, and $E$ represent the time index, time step, a unit of time lag, and the optimal embedding dimension, respectively. $T$ is the number of times to evaluate $TE$. For example, if $tp = -1$ in Eqn. [1], UIC tests the causal effect from $y_{t-1}$ to $x_t$. Optimal $E$ was selected by measuring $TE$ as follows:
 
 $$
-TE = \frac{1}{T}\sum_{t=1}^{T} log(\frac{p(x_{t+tp}|y_t, x_t, x_{t-\tau}, ...,  x_{t-(E-1)\tau}}{p(x_{t+tp}|y_t, x_t, x_{t-\tau}, ...,  x_{t-(E_R-1)\tau})}) \qquad...\:[2]
+TE = \frac{1}{T}\sum_{t=1}^{T} \log(\frac{p(x_{t+tp}|y_t, x_t, x_{t-\tau}, ...,  x_{t-(E-1)\tau})}{p(x_{t+tp}|y_t, x_t, x_{t-\tau}, ...,  x_{t-(E_R-1)\tau})}) \qquad...\:[2]
 $$
 
 where $E_R$  ($<E$) is the optimal embedding dimension of lower dimensional models. Significance tests were conducted by bootstrapping data after embedding (the significance levels were set to 0.05). Eqn. [2] is a TE version of simplex projection [@Sugihara1990Nonlinear]. TE measured according to Eqn. [1] gains the advantage of previous causality tests, i.e., standard TE methods [@Runge2012Escaping; @Schreiber2000Measuring] and convergent cross mapping (CCM) [@Sugihara2012Detecting], the algorithm of which is explained and implemented in https://github.com/yutakaos/rUIC. $\vspace{0.3cm}$
