@@ -44,7 +44,7 @@ classoption: a4paper
 <center>
 
 ![
-**Figure S4. Differential expression gene (DEG) patterns for each Wagner pot (Pot location-specific analysis).** DEG for (**a**) location 1, (**b**) location 2, and (**c**) location 3 for the control (CT) versus _Globisporangium nunn_-added (GN) treatments. (**d**-**f**) DEG analysis for the control versus _Chironomus kiiensis_-removed (CK) treatments for rice grown at locations 1-3. Red and blue points indicate significant up- and down-regulated genes, respectively. Upper and lower dashed lines indicate $log_2(1.5)$ and $-log_2(1.5)$, respectively.
+**Figure S4. Differential expression gene (DEG) patterns for each Wagner pot (Pot location-specific analysis).** DEG for (**a**) location 1, (**b**) location 2, and (**c**) location 3 for the control (CT) versus _Globisporangium nunn_-added (GN) treatments. (**d**-**f**) DEG analysis for the control versus _Chironomus kiiensis_-removed (CK) treatments for rice grown at locations 1-3. Red and blue points indicate significant up- and down-regulated genes, respectively. Upper and lower dashed lines indicate $\log_2(1.5)$ and $-\log_2(1.5)$, respectively.
 ](../05_FigCode/00_ReformatFigs/Figure_S04.jpg){width=100%}
 
 </center>
