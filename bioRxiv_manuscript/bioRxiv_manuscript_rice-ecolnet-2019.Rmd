@@ -1,7 +1,7 @@
 ---
 title: \color{TitleColor} \fontsize{22pt}{1.0cm}\selectfont__Detecting and validating influential organisms for rice growth$:$ An ecological network approach__
 author:
-  - Masayuki Ushio$^{1,2,*,}$^†^, Hiroki Saito$^3$, Motoyuki Tojo$^4$, Atsushi J. Nagano$^{5,6}$
+  - Masayuki Ushio$^{1,2,*,}$^†^, Hiroki Saito$^3$, Motoaki Tojo$^4$, Atsushi J. Nagano$^{5,6}$
 date:
   - \footnotesize $^1$Hakubi Center, Kyoto University, Kyoto 606-8501, Japan, 
   - $^2$Center for Ecological Research, Kyoto University, Otsu 520-2113, Japan, 
