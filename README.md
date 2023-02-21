@@ -1,6 +1,6 @@
-# Analysis codes for Ushio et al. "Detecting and validating influential organisms for rice growth: An ecological network approach"
+# Analysis codes for Ushio et al. (2023) "Detecting and validating influential organisms for rice growth: An ecological network approach"
 
-This repository contains analysis codes to reproduce the results in Ushio et al. (2023) bioRxiv https://doi.org/10.1101/xxxx.xx.xx.xxxxxx.
+This repository contains analysis codes to reproduce the results in Ushio et al. (2023) _bioRxiv_ https://doi.org/10.1101/2023.02.19.529115.
 
 # License
 See LICENSE.
