@@ -13,7 +13,7 @@ See LICENSE.
 ## Step 2. Summary of rice growth data in 2019
 - `02_2019_Rice/`: Codes for summarizing and visualizing rice growth in 2019<br>
 
-## Step 3. Sequence data processing of environmental DNA data in 2019
+## Step 3. Processing of environmental DNA sequence data in 2019
 - `03_2019_eDNA/`: Codes for sequence data processing of quantitative environmental DNA data in 2019<br>
 
 ## Step 4. Detection of differentially expressed genes in rice in 2019
