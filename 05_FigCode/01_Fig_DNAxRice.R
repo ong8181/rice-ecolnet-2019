@@ -39,6 +39,7 @@ r1_1 <- ggplot(rice_fig, aes(x = date, y = gr, colour = plot, group = plot)) +
 
 # Climate time series
 clim_fig <- na.omit(clim_all)
+clim_fig <- clim_fig %>% filter(date >= "2017-05-25" & date <= "2017-09-22")
 r1_2 <- ggplot(clim_fig, aes(x = date, y = temp_mean, colour = plot, group = plot)) +
   geom_line() + geom_point(size = 0.5) + scale_color_startrek() +
   geom_line(aes(x = date, y = temp_max), linetype = 2, size = 0.2) +
@@ -92,23 +93,33 @@ edna_melt3[edna_melt3$value < 1,]$value <- 1
 edna_melt4[edna_melt4$value < 10,]$value <- 10
 
 r1_4 <- ggplot(edna_melt1, aes(x = date, y = value + 0.5, group = plot, colour = plot)) +
-  geom_point(size = 0.5) + geom_line() + scale_color_startrek() + scale_y_log10() +
-  xlab(NULL) + ylab("Log(DNA copy + 0.5)") +
+  geom_point(size = 0.5) + geom_line() + scale_color_startrek() + 
+  xlab(NULL) + ylab("DNA copies (+ 0.5)") + scale_y_log10(labels = macam::label_10_to_power) +
   labs(title = "{current_frame}") + transition_manual(variable) +
   NULL
 r1_5 <- ggplot(edna_melt2, aes(x = date, y = value + 0.5, group = plot, colour = plot, frame = variable)) +
-  geom_point(size = 0.5) + geom_line() + scale_color_startrek() + scale_y_log10() +
-  xlab(NULL) + ylab("Log(DNA copy + 0.5)") +
+  geom_point(size = 0.5) + geom_line() + scale_color_startrek() +
+  xlab(NULL) + ylab("DNA copies (+ 0.5)") + scale_y_log10(labels = macam::label_10_to_power) +
   labs(title = "{current_frame}") + transition_manual(variable) +
   NULL
 r1_6 <- ggplot(edna_melt3, aes(x = date, y = value + 0.5, group = plot, colour = plot, frame = variable)) +
-  geom_point(size = 0.5) + geom_line() + scale_color_startrek() + scale_y_log10() +
-  xlab(NULL) + ylab("Log(DNA copy + 0.5)") +
+  geom_point(size = 0.5) + geom_line() + scale_color_startrek() +
+  xlab(NULL) + ylab("DNA copies (+ 0.5)") + scale_y_log10(labels = macam::label_10_to_power) +
   labs(title = "{current_frame}") + transition_manual(variable) +
   NULL
 r1_7 <- ggplot(edna_melt4, aes(x = date, y = value + 0.5, group = plot, colour = plot, frame = variable)) +
-  geom_point(size = 0.5) + geom_line() + scale_color_startrek() + scale_y_log10() +
-  xlab(NULL) + ylab("Log(DNA copy + 0.5)") +
+  geom_point(size = 0.5) + geom_line() + scale_color_startrek() +
+  xlab(NULL) + ylab("DNA copies (+ 0.5)") + scale_y_log10(labels = macam::label_10_to_power) +
+  labs(title = "{current_frame}") + transition_manual(variable) +
+  NULL
+
+# 2023.6.15 Ushio (for eLife revision)
+# Make mp4 animation for FigShare
+edna_melt_all <- rbind(edna_melt1, edna_melt2, edna_melt3, edna_melt4)
+unique(edna_melt_all$variable)
+r1_8 <- ggplot(edna_melt_all, aes(x = date, y = value + 0.5, group = plot, colour = plot, frame = variable)) +
+  geom_point(size = 0.5) + geom_line() + scale_color_startrek() +
+  xlab(NULL) + ylab("DNA copies (+ 0.5)") + scale_y_log10(labels = macam::label_10_to_power) +
   labs(title = "{current_frame}") + transition_manual(variable) +
   NULL
 
@@ -149,7 +160,6 @@ u5 <- ggplot(tmp_df, aes(x = tp, y = te)) +
 # Specify UIC result compile folder
 load(sprintf("%s/03_CompileUICresOut/03_CompileUICresOut.RData", result_folder01))
 
-
 ## Extract taxa with species-level identification
 causal_spp1 <- intersect(max_rice_edna$cause_var,
                          rownames(edna_tax)[which(edna_tax[,"species"] != "")])
@@ -184,7 +194,7 @@ u7 <- max_rice_edna_sub2 %>%
   scale_x_log10() +
   ylab("Causal species to rice growth") +
   xlab("Influences to rice growth")
-#write.csv(max_rice_edna_sub2, "00_TaxData/causal_taxa_table.csv")
+write.csv(max_rice_edna_sub2, "00_TaxData/causal_taxa_table.csv")
 
 
 
@@ -209,6 +219,10 @@ saveRDS(uic_figs, sprintf("%s/Fig_DNAxRice_UIChist.obj", fig_output))
 # anim_save(save_file_name2, r1_5, nframes = 50, fps = 5, height = 200, width = 500)
 # anim_save(save_file_name3, r1_6, nframes = 50, fps = 5, height = 200, width = 500)
 # anim_save(save_file_name4, r1_7, nframes = 50, fps = 5, height = 200, width = 500)
+
+# Make mp4 for a combined animation
+# a1 <- animate(r1_8, nframes = 200, fps = 5, width = 1600, height = 800, res = 200, renderer = ffmpeg_renderer(format = "mp4"))
+# anim_save(sprintf("%s/animation_all_top50_each.mp4", fig_output), animation = a1)
 
 #### save session info
 writeLines(capture.output(sessionInfo()),

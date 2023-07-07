@@ -14,7 +14,7 @@ fig_output <- "00_FigRaw"
 #dir.create(fig_output)
 
 # Load data
-result_folder01 <- "../02_2019_Rice"
+result_folder01 <- "../02_2019_Rice" 
 d <- read.csv(sprintf("%s/data/data_rice_yield.csv", result_folder01))
 # Revise the treatment names (2023.2.7)
 treatment_ori <- c("CT", "PN", "RM")

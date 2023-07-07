@@ -149,8 +149,10 @@ s1_1 <- ps_pythium %>%
   facet_wrap(~ treatment) + panel_border() +
   xlab("Sampling before or after treatment") +
   ylab("Total DNA (copies/ml water)") +
+  ggtitle(expression(paste("eDNA conc. of putative ", italic("Globisporangium"), " spp."))) +
   scale_y_log10(limits = c(0.5, 20000)) +
   NULL
+
 s1_2 <- ps_m2 %>% #filter(dna_conc > 0) %>% 
   ggplot(aes(x = date, y = log10(dna_conc+1), group = ASV, fill = ASV)) +
   geom_bar(stat = "identity", colour = NA) + theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)) +
@@ -162,6 +164,7 @@ s1_2 <- ps_m2 %>% #filter(dna_conc > 0) %>%
 
 
 # ---------------------------------------------------------------
+
 # --------------------- Extract Chironomus kiiensis eDNAs
 target_id2 <- c(tax_table(ps_filt)[,"species"] == "Chironomus kiiensis")
 ps_target2 <- prune_taxa(target_id2, ps_filt)
@@ -198,7 +201,7 @@ ps_midge <- ps_m4 %>% group_by(date, plot) %>%
                             "4" = "CT", "5" = "GN", "6" = "CK",
                             "7" = "CT", "8" = "GN", "9" = "CK", .default = plot),
          before_after = case_when(date <= ymd("2019-06-24") ~ "before",
-                                  date > ymd("2019-06-24") ~ "after"))
+                                  date > ymd("2019-06-24") ~ "after")) 
 ps_midge$treatment <- factor(ps_midge$treatment, levels = treatment_rev)
 ps_midge$before_after <- factor(ps_midge$before_after, levels = c("before", "after"))
 s2_1 <- ps_midge %>%
@@ -210,6 +213,7 @@ s2_1 <- ps_midge %>%
   facet_wrap(~ treatment) + panel_border() +
   xlab("Sampling before or after treatment") +
   ylab("Total DNA (copies / ml water)") +
+  ggtitle(expression(paste("eDNA conc. of ", italic("Chironomus kiiensis")))) +
   scale_y_log10(limits = c(0.5, 20000)) +
   NULL
 
@@ -274,6 +278,7 @@ tsne_fig_all <- list(t1, t2, t3, t4)
 saveRDS(general_fig_all, sprintf("%s/Fig_DNA2019flt_general.obj", fig_output))
 saveRDS(target_fig_all, sprintf("%s/Fig_DNA2019flt_target.obj", fig_output))
 saveRDS(target_fig_jitter, sprintf("%s/Fig_DNA2019flt_target_jitter.obj", fig_output))
+saveRDS(nmds_fig_all, sprintf("%s/Fig_DNA2019flt_NMDS.obj", fig_output))
 saveRDS(tsne_fig_all, sprintf("%s/Fig_DNA2019flt_tSNE.obj", fig_output))
 ggsave(sprintf("%s/Pythiales.pdf", fig_output), plot = s1_2,
        width = 24, height = 10)

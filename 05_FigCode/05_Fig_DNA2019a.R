@@ -35,6 +35,21 @@ sample_data(ps_euk_sample1) <- sample_data(ps_euk_sample1) %>% data.frame %>%
   mutate(treatment = factor(treatment, levels = treatment_ori, labels = treatment_rev)) %>% sample_data
 
 
+# <----------------------------------------------------> #
+# Climate time series
+# <----------------------------------------------------> #
+# Load climate data 2019
+clim_all <- readRDS("../02_2019_Rice/data/data_climate.obj")
+clim_fig <- na.omit(clim_all)
+clim_fig$date <- ymd(clim_fig$date)
+clim_fig <- clim_fig %>% filter(date >= "2019-05-20" & date <= "2019-09-20")
+r1 <- ggplot(clim_fig, aes(x = date, y = temp_mean)) +
+  geom_line() + geom_point(size = 0.5) + scale_color_startrek() +
+  geom_line(aes(x = date, y = temp_max), linetype = 2, linewidth = 0.2) +
+  geom_line(aes(x = date, y = temp_min), linetype = 2, linewidth = 0.2) +
+  xlab(NULL) + ylab(expression(paste("Air temperature (", degree, "C)"))) +
+  NULL
+
 
 # <----------------------------------------------------> #
 #                 Generate figures v1
@@ -191,6 +206,8 @@ g1_8 <- ggplot(ps_euk_m3, aes(x = as.Date(date), y = dna_conc/5, group = rep_tax
 # <----------------------------------------------------> #
 #                       Save figures
 # <----------------------------------------------------> #
+saveRDS(r1, sprintf("%s/Fig_DNA2019_clim.obj", fig_output))
+
 fig_all_1 <- list(f1, f2, f3, f4)
 fig_all_2 <- list(g1_1, g1_2, g1_3, g1_4, g1_5, g1_6, g1_7, g1_8)
 saveRDS(fig_all_1, sprintf("%s/Fig_DNA2019div_1.obj", fig_output))

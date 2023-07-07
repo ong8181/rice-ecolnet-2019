@@ -19,6 +19,7 @@ theme_set(theme_cowplot())
 library(lme4); packageVersion("lme4") # 1.1.31, 2023.01.11
 
 # Specify figure folder
+setwd("05_FigCode/")
 fig_output <- "00_FigRaw"
 formatfig_output <- "00_ReformatFigs"
 dir.create(formatfig_output)
@@ -44,7 +45,7 @@ Fig_2019_RicePlot <- import_image("00_FieldImage_2019/RiceExp2019_Setup.png")
 Fig_2019_Pot <- import_image("00_FieldImage_2019/RiceExp2019_Pot.png")
 Fig_2019_Midge <- import_image("00_FieldImage_2019/RiceExp2019_Midge.png")
 Fig_2019_Pythium1 <- import_image("00_FieldImage_2019/RiceExp2019_Pythium1.png")
-Fig_2019_Pythium2 <- import("00_FieldImage_2019/RiceExp2019_Pythium2.png")
+Fig_2019_Pythium2 <- import_image("00_FieldImage_2019/RiceExp2019_Pythium2.png")
 # <----------------------------------------------------> #
 # eDNA x Rice in 2017
 Fig_DNAts <- readRDS("00_FigRaw/Fig_ushio2022.obj")
@@ -54,7 +55,6 @@ Fig_DNAxRice_UIC <- readRDS(sprintf("%s/Fig_DNAxRice_UIChist.obj", fig_output))
 # <----------------------------------------------------> #
 # Rice growth data in 2019
 Fig_RiceGrowth2019 <- readRDS(sprintf("%s/Fig_RiceGrowth2019.obj", fig_output))
-#Fig_RiceYield2019 <- readRDS(sprintf("%s/Fig_RiceYield2019.obj", fig_output))
 # <----------------------------------------------------> #
 # eDNA in 2019
 #Fig_DNA2019bar <- readRDS(sprintf("%s/Fig_DNA2019bar_1.obj", fig_output))
@@ -77,6 +77,10 @@ Fig_DEGs <- readRDS(sprintf("%s/Fig_RNA2019_DEG.obj", fig_output))
 Fig_Network_img <- image_read("00_FigRaw/Fig_ushio2022_network.jpg")
 Fig_NetworkLegend_img <- image_read("00_FigRaw/Fig_ushio2022_legend.jpg")
 
+# Revision (eDNA 2017 & 2019)
+Fig_eDNAbar <- readRDS(sprintf("%s/Fig_DNA_Barplot.obj", fig_output))
+# Revision (Climate 2019)
+Fig_clim2019 <- readRDS(sprintf("%s/Fig_DNA2019_clim.obj", fig_output))
 
 
 # <----------------------------------------------------> #
@@ -109,8 +113,8 @@ Fig_UICres <- (((Fig_DNAxRice_UIC[[5]]  + labs(tag = "a")) +
 
 
 # Figure 3: Ecological communities in 2019
-Fig_DNA2019flt_jitter1 <- Fig_DNA2019flt_jitter[[1]] + labs(tag = "b") + theme(legend.position = "none") + ylab("Total DNA (copies/ml water)")
-Fig_DNA2019flt_jitter2 <- Fig_DNA2019flt_jitter[[2]] + labs(tag = "c") + theme(legend.position = "none") + ylab("Total DNA (copies/ml water)")
+Fig_DNA2019flt_jitter1 <- Fig_DNA2019flt_jitter[[1]] + labs(tag = "b") + theme(legend.position = "none") + ylab("Total eDNA (copies/ml water)")
+Fig_DNA2019flt_jitter2 <- Fig_DNA2019flt_jitter[[2]] + labs(tag = "c") + theme(legend.position = "none") + ylab("Total eDNA (copies/ml water)")
 ## Add statistical clarity
 text1 <- data.frame(x = c(1.5, 1.5, 1.5), y = c(20000, 20000, 20000),
                     lab = c("italic(P) == 0.032", "italic(P) < 2.0 %*% 10^{-16}", "italic(P) == 0.906"),
@@ -120,10 +124,11 @@ text2 <- data.frame(x = c(1.5, 1.5, 1.5), y = c(20000, 20000, 20000),
                     treatment = factor(c("CT", "GN", "CK"), levels = c("CT", "GN", "CK")))
 Fig_DNA2019flt_jitter1 <- Fig_DNA2019flt_jitter1 + geom_text(data = text1, aes(x = x, y = y, label = lab), color = "black", parse = T, size = 4)
 Fig_DNA2019flt_jitter2 <- Fig_DNA2019flt_jitter2 + geom_text(data = text2, aes(x = x, y = y, label = lab), color = "black", parse = T, size = 4)
+Fig_DNA2019flt_jitter1 <- Fig_DNA2019flt_jitter1 + theme(plot.title = element_text(size = 12))
+Fig_DNA2019flt_jitter2 <- Fig_DNA2019flt_jitter2 + theme(plot.title = element_text(size = 12))
 Fig_DNA2019_1 <-(Fig_DNA2019flt_jitter1) / (Fig_DNA2019flt_jitter2)
 Fig_DNA2019_2 <- Fig_DNA2019flt_tSNE[[4]] + labs(tag = "d") + theme(legend.position = "right") + stat_ellipse(type = "t", linetype = 1, level = 0.95)
 Fig_DNA2019 <- (Fig_DNA2019_1 | Fig_DNA2019_2) + plot_layout(ncol = 2, widths = c(1, 1.5))
-Fig_DNA2019flt_tSNE[[4]] + stat_conf_ellipse(aes(color = treatment))
 ## Statistical tests
 ## Treatment specific (Pythium)
 ## Pythium all
@@ -148,8 +153,11 @@ Fig_DNA2019flt_jitter[[2]]$data %>% subset(treatment == "GN") %>%  # p = 6.64e-0
 Fig_DNA2019flt_jitter[[2]]$data %>% subset(treatment == "CK") %>%  # p = 0.182 (-)
   glmer(total_dna_conc ~ before_after + (1|plot), data = ., family = Gamma(link = "log")) %>% summary()
 ## Assemble figures
+Fig_clim2019$layers[[1]] <- geom_line(linewidth = 0.3)
+Fig_clim2019$layers[[2]] <- geom_point(size = 0.3)
 Fig_Rice2019 <- Fig_2019_RicePlot + labs(tag = "a") +
-  inset_element(Fig_2019_Pot, 0.72, 0.15, 0.93, 0.4)
+  inset_element(Fig_2019_Pot, 0.72, 0.15, 0.93, 0.40) +
+  inset_element(Fig_clim2019 + theme_classic(), 0.02, 0.65, 0.32, 0.91)
 Fig_RiceDNA2019 <- (Fig_Rice2019) / (Fig_DNA2019)
 
 
@@ -260,7 +268,7 @@ Fig_Workflow <- ((Fig_2017_Field + labs(tag = "a")) +
                  (Fig_eDNAMonitoring + labs(tag = "b")) +
                   plot_layout(height = c(1, 1.8))
 ### Pythium and midge images
-Fig_2019_Organism <- (Fig_2019_Midge + Fig_2019_Pythium2) / (Fig_2019_Pythium1 + plot_spacer()) +
+Fig_2019_Organism <- (Fig_2019_Pythium2 + Fig_2019_Pythium1) / (Fig_2019_Midge + plot_spacer()) +
   plot_annotation(tag_levels = "a")
 ### DNA community in 2019
 Fig_DNACom2019 <- plot_grid(Fig_DNA2019flt_target[[2]] + panel_border(),
@@ -268,9 +276,9 @@ Fig_DNACom2019 <- plot_grid(Fig_DNA2019flt_target[[2]] + panel_border(),
                             ncol = 2, labels = "auto")
 
 # For Supplementary Figure for rice growth trajectory in 2019
-Fig_RiceGrowth_SI <- plot_grid(Fig_RiceGrowth2019[[1]],
-                               Fig_RiceGrowth2019[[2]],
-                               Fig_RiceGrowth2019[[3]],
+Fig_RiceGrowth_SI <- plot_grid(Fig_RiceGrowth2019[[1]], #+ xlim(c(ymd("2019-06-18"), ymd("2019-07-13"))),
+                               Fig_RiceGrowth2019[[2]], #+ xlim(c(ymd("2019-06-18"), ymd("2019-07-13"))),
+                               Fig_RiceGrowth2019[[3]], #+ xlim(c(ymd("2019-06-18"), ymd("2019-07-13"))),
                                labels = c("a", "b", "c"),
                                ncol = 1, align = "hv")
 
@@ -282,6 +290,19 @@ Fig_RNA2019_loc <- plot_grid(Fig_RNAmaplot_PN[[4]] + theme(legend.position = "no
                              Fig_RNAmaplot_RM[[5]] + theme(legend.position = "none"),
                              Fig_RNAmaplot_RM[[6]] + theme(legend.position = "none"),
                              ncol = 3, rel_widths = c(1,1,1), labels = "auto")
+
+### eDNA patterns
+Fig_DNAbar_2017 <- plot_grid(Fig_eDNAbar[[3]] + panel_border() +
+                               theme(axis.text.x = element_text(vjust = 0.5)),
+                             Fig_eDNAbar[[1]] + panel_border() +
+                               theme(axis.text.x = element_text(vjust = 0.5)),
+                             ncol = 1, align = "hv", axis = "lrbt", labels = "auto")
+Fig_DNAbar_2019 <- plot_grid(Fig_eDNAbar[[4]] + panel_border() +
+                               geom_segment(aes(x = "2019-06-18", y = 3.4e+7, xend = "2019-07-12", yend = 3.4e+7), color = "royalblue", linewidth = 1) +
+                               theme(axis.text.x = element_text(vjust = 0.5)),
+                             Fig_eDNAbar[[2]] + panel_border() +
+                               theme(axis.text.x = element_text(vjust = 0.5)),
+                             ncol = 1, align = "hv", axis = "lrbt", labels = "auto")
 
 
 # <----------------------------------------------------> #
@@ -338,11 +359,19 @@ ggsave(sprintf("%s/Figure_S04.jpg", formatfig_output),
        plot = Fig_RNA2019_loc,
        dpi = 300, width = 12, height = 8)
 
+### Figure R01-02
+ggsave(sprintf("%s/Figure_R01.pdf", formatfig_output),
+       plot = Fig_DNAbar_2017,
+       width = 15, height = 15)
+ggsave(sprintf("%s/Figure_R02.pdf", formatfig_output),
+       plot = Fig_DNAbar_2019,
+       width = 15, height = 20)
+
 
 # <----------------------------------------------------> #
 #             Save session information
 # <----------------------------------------------------> #
 writeLines(capture.output(sessionInfo()),
-           sprintf("00_SessionInfo/SessionInfo_FormatFigs_%s.txt", substr(Sys.time(), 1, 10)))
+           sprintf("00_SessionInfo/SessionInfo_x1_FormatFigs_%s.txt", substr(Sys.time(), 1, 10)))
 
 

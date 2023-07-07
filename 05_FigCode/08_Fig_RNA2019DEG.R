@@ -26,7 +26,7 @@ data_folder <- result_folder01 %>% paste0("/06_SpecificGenesOut/")
 deg_df <- read_csv(sprintf("%s/S2_DEGList.csv", data_folder))
 deg_df$treatment <- factor(deg_df$treatment, levels = c("CT", "GN", "CK"))
 deg_annot <- read_csv(sprintf("%s/S2_DEGannot.csv", data_folder))
-## Select candidates for DEG examples (for Figure)
+## Select candicates for DEG examples (for Figure)
 deg_example_cand <- deg_annot$Locus_ID %>% str_which("LOC_", negate = T) %>%
   deg_annot[.,] %>% arrange(padj)
 

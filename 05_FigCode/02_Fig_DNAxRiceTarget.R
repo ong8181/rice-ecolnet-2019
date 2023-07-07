@@ -42,25 +42,25 @@ g1 <- ggplot(edna_fig, aes(x = date, y = Fungi_Taxa00402, colour = plot, group =
 g2 <- ggplot(edna_fig, aes(x = date, y = Inv_Taxa00042, colour = plot, group = plot)) +
   geom_line() + geom_point(size = 0.5) + scale_color_startrek() +
   geom_hline(yintercept = 0, linetype = 2) + xlab(NULL) +
-  ylab("Dynamics of Chironomus kiiensis 1\n(eDNA copies/ml water)") + #scale_y_log10() +
+  ylab("Dynamics of Chironomus kiiensis 1\n(eDNA copies/ml water)") +
   NULL
 
 g3 <- ggplot(edna_fig, aes(x = date, y = Inv_Taxa00057, colour = plot, group = plot)) +
   geom_line() + geom_point(size = 0.5) + scale_color_startrek() +
   geom_hline(yintercept = 0, linetype = 2) + xlab(NULL) +
-  ylab("Dynamics of Chironomus kiiensis 2\n(eDNA copies/ml water)") + #scale_y_log10() +
+  ylab("Dynamics of Chironomus kiiensis 2\n(eDNA copies/ml water)") +
   NULL
 
 g4 <- ggplot(edna_fig, aes(x = date, y = Inv_Taxa00139, colour = plot, group = plot)) +
   geom_line() + geom_point(size = 0.5) + scale_color_startrek() +
   geom_hline(yintercept = 0, linetype = 2) + xlab(NULL) +
-  ylab("Dynamics of Chironomus kiiensis 3\n(eDNA copies/ml water)") + #scale_y_log10() +
+  ylab("Dynamics of Chironomus kiiensis 3\n(eDNA copies/ml water)") +
   NULL
 
 g5 <- ggplot(edna_fig, aes(x = date, y = Inv_Taxa00145, colour = plot, group = plot)) +
   geom_line() + geom_point(size = 0.5) + scale_color_startrek() +
   geom_hline(yintercept = 0, linetype = 2) + xlab(NULL) +
-  ylab("Dynamics of Chironomus kiiensis 4\n(eDNA copies/ml water)") + #scale_y_log10() +
+  ylab("Dynamics of Chironomus kiiensis 4\n(eDNA copies/ml water)") +
   NULL
 
 g6 <- ggplot(edna_fig, aes(x = date, y = Inv_Taxa00176, colour = plot, group = plot)) +
@@ -76,7 +76,6 @@ g7 <- ggplot(edna_fig, aes(x = date,
   geom_hline(yintercept = 0, linetype = 2) + xlab(NULL) +
   ylab("eDNA conc. (copies/ml water)") +
   ggtitle(expression(italic("Chironomus kiiensis"))) +
-  #theme(title = element_text(size = 10)) + #scale_y_log10() +
   NULL
 
 
