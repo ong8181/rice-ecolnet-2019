@@ -1,4 +1,4 @@
-# Analysis codes for Ushio et al. (2023) _eLife_
+# Analysis codes for Ushio et al. (2023) _eLife_ "An ecological network approach for detecting and validating influential organisms for rice growth"
 [![DOI](https://zenodo.org/badge/601977379.svg)](https://zenodo.org/badge/latestdoi/601977379)
 
 This repository contains analysis codes to reproduce the results in Ushio et al. (2023) _eLife_ https://doi.org/10.7554/eLife.87202. bioRxiv version is here: https://doi.org/10.1101/2023.02.19.529115.
